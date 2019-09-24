@@ -635,7 +635,7 @@ namespace TujaEsploristo
 			ElirejoVojo = (sender as TextBox).Text;
 		}
 
-		private void button_slosigu_Click(object sender, EventArgs e)
+		private void button_ŝlosiligu_Click(object sender, EventArgs e)
 		{
 			string tujaElirejoxml = Path.Combine(ElirejoVojo, "slosiloj");
 			if (!Directory.Exists(tujaElirejoxml))

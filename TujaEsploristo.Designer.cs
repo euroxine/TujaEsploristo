@@ -247,18 +247,18 @@
 			this.label8.Name = "label8";
 			this.label8.Size = new System.Drawing.Size(138, 13);
 			this.label8.TabIndex = 17;
-			this.label8.Text = "6. espdic -> slosilinta espdic";
+			this.label8.Text = "6. espdic -> ŝlosilinta espdic";
 			// 
 			// button_slosigu
 			// 
 			this.button_slosigu.BackColor = System.Drawing.Color.PaleGreen;
-			this.button_slosigu.Location = new System.Drawing.Point(231, 285);
+			this.button_slosigu.Location = new System.Drawing.Point(231, 291);
 			this.button_slosigu.Name = "button_slosigu";
 			this.button_slosigu.Size = new System.Drawing.Size(75, 23);
 			this.button_slosigu.TabIndex = 18;
-			this.button_slosigu.Text = "ŝlosilogu";
+			this.button_slosigu.Text = "ŝlosiligu";
 			this.button_slosigu.UseVisualStyleBackColor = false;
-			this.button_slosigu.Click += new System.EventHandler(this.button_slosigu_Click);
+			this.button_slosigu.Click += new System.EventHandler(this.button_ŝlosiligu_Click);
 			this.button_slosigu.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Slosigu_MouseDown);
 			// 
 			// TujaEsploristo
