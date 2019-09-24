@@ -310,14 +310,27 @@ namespace TujaEsploristo
 		#region vortaroStrokturoj
 		public static vortoStruKt VortoStrukt(XmlNode nodedrv, string radiko)
 		{
+			//    <kap><ofc>*</ofc><tld/>i</kap>
+			//    <kap><tld/>iĝi, <var><kap>sin <tld/>i</kap></var></kap>
 			vortoStruKt aktuaVorto = new vortoStruKt();
 			var veravorto = string.Empty;
 			var kap = nodedrv.SelectSingleNode("kap");
 			if (kap.FirstChild.NodeType == XmlNodeType.Text)
 				aktuaVorto.prefikso = kap.FirstChild.Value;
 			aktuaVorto.radiko = radiko;
-			if (kap.LastChild.NodeType == XmlNodeType.Text)
-				aktuaVorto.sufikso = kap.LastChild.Value;
+			
+			bool sekvantoEstosSufikso = false;
+			foreach (XmlNode infanode in kap.ChildNodes)
+			{
+				if (sekvantoEstosSufikso && infanode.NodeType == XmlNodeType.Text)
+				{
+					aktuaVorto.sufikso = infanode.Value.Replace(",","").Trim();
+					break;
+				}
+				if (infanode.Name == "tld")
+					sekvantoEstosSufikso = true;
+			}
+				
 			return aktuaVorto;
 		}
 
@@ -624,7 +637,10 @@ namespace TujaEsploristo
 		{
 			(sender as Button).BackColor = Color.PaleVioletRed;
 		}
-
+		private void Deŝlosiligu_MouseDown(object sender, MouseEventArgs e)
+		{
+			(sender as Button).BackColor = Color.PaleVioletRed;
+		}
 		private void textBox_EnirejoVojo_TextChanged(object sender, EventArgs e)
 		{
 			EnirejoVojo  = (sender as TextBox).Text;
@@ -714,6 +730,51 @@ namespace TujaEsploristo
 
 			(sender as Button).BackColor = Color.PaleGreen;
 
+		}
+
+		private void Deŝlosiligu_Click(object sender, EventArgs e)
+		{
+			string tujaElirejoxml = Path.Combine(ElirejoVojo, "slosiloj");
+			if (!Directory.Exists(tujaElirejoxml))
+				return;
+
+			string eoPath = Path.Combine(tujaElirejoxml, "eo_fr_slosilo_eo.txt");
+			string frPath = Path.Combine(tujaElirejoxml, "eo_fr.txt");
+			if (!File.Exists(eoPath) || !File.Exists(frPath))
+				return;
+
+			//line => 11-1 : abakteria
+			var eoDico = File.ReadAllLines(eoPath)
+				.Where(line => line.Contains(":"))
+				.Select(line =>
+				{
+					string[] compo = line.Split(':');					
+					return new KeyValuePair<string,string>(compo[0].Trim(), compo[1].Trim());
+				}).ToDictionary(x=>x.Key,x=>x.Value);
+
+
+			//line => 11-1 : abakteria
+			var frDico = File.ReadAllLines(frPath)
+				.Where(line => line.Contains(":"))
+				.Select(line =>
+				{
+					string[] compo = line.Split(':');
+					return new KeyValuePair<string, string>(compo[0].Trim(), compo[1].Trim());
+				}).ToDictionary(x => x.Key, x => x.Value);
+
+			var compos = frDico
+				.Where(x=> eoDico.ContainsKey(x.Key))
+				.Select(x => 
+				{
+					var eoparto = eoDico[x.Key];
+					string homografo = "1";
+					if (x.Key.Contains('-'))
+						homografo = x.Key.Split('-')[1];
+					return new vortaro { vorto = eoparto, traduko = x.Value, homografo = homografo };					
+					
+				});
+			SavuLaVortaron(compos.ToList(), "eo_fr_adicigi");
+			(sender as Button).BackColor = Color.PaleGreen;
 		}
 
 	}
