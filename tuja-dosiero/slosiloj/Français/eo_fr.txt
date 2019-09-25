@@ -1,0 +1,557 @@
+﻿2-1: antaŭ Kristo (av. J.-C.)
+3-1: Aaron
+4-1: Abaddon (biblique, ange exterminateur de l'abîme dans l'Apocalypse de saint Jean)
+11-1: abactérien
+12-1: abactio
+14-1: peur de l'abandon
+17-1: Abbaside
+19-1: abbatiale
+20-1: abbatiale
+21-1: abbatiale
+22-1: abbaye
+23-1: abbatiale
+25-1: abbatiale
+26-1: abbatiale
+29-1: barricade d'arbres ou de branches
+30-1: abatis
+31-1: abbatiale
+34-1: abasique
+35-1: abatique
+36-1: abasie (incapacité de marcher causée par un manque de coordination musculaire]
+37-1: abcès
+38-1: abdication
+39-1: abdication
+40-1: abdication
+41-1: abdiquant
+42-1: abdicateur
+43-1: abdicable
+47-1: abdominale
+51-1: abducteur
+52-1: muscle abducteur
+53-1: enlever
+54-1: enlèvement
+55-1: rapt
+56-1: enlever
+57-1: enlèvement
+58-1: abducteur (nom de certains muscles d'abduction, abducteur du petit doigt)
+59-1: Abdul
+60-1: Abdullah
+61-1: déconcertant
+62-1: Abel’s
+63-1: abélien
+64-1: commutatif (groupe)
+65-2: lié aux abeilles
+66-1: colonie d'abeilles
+68-1: test d'Abel
+69-1: Ophrys abeille
+70-1: orchidée abeille
+71-1: Abélard
+72-1: essaim d'abeilles
+73-1: apiculture
+74-1: apiculteur
+75-1: apiculture
+76-1: ruche
+77-1: cellule d'abeille
+78-1: rucher
+80-1: apicole
+84-1: ruche (style boîte)
+85-1: colonie d'abeilles
+86-1: ruche (en osier)
+87-1: apiculture
+88-1: apiculteur
+89-1: apiculteur
+90-1: apiculture
+97-1: d'une ruche
+100-1: en forme de ruche
+101-1: cire d'abeille
+102-1: de cire d'abeille
+103-1: bougie à la cire d'abeille
+104-1: cire d’abeille
+105-1: poison d'abeille
+106-1: aberrant
+107-1: déviant
+108-1: s'écarter
+112-1: Milford Haven
+113-1: Aberdonien
+114-1: Aberdeen
+115-1: Aberdour
+116-1: Aberfeldy
+117-1: Aberfoyle
+118-1: Abergavenny
+119-1: Fishguard
+120-1: aberrer
+121-1: Barmouth
+122-1: Swansea
+123-1: Abbeville
+124-1: Abkhaze
+125-1: Abkhazie
+126-1: abkhaze
+127-1: Abkhazie
+128-1: en sapin
+129-1: forêt de sapins
+130-1: bois de sapin
+131-1: forêt de sapins
+132-1: bois de sapin
+133-1: Abida
+134-1: abhidhamma
+135-1: forêt de sapins
+136-1: bois de sapin
+137-1: acide abiétique
+138-1: abiétine
+139-1: épinette (arbre)
+140-1: sapin
+141-1: pomme de pin
+142-1: pomme de pin
+143-1: Abimaël
+144-1: Abimélech
+145-1: Abington
+148-1: forêt de sapins
+149-1: bois de sapin
+150-1: pomme de pin
+151-1: abiogenèse
+152-1: pomme de pin
+153-1: Épinette de Norvège
+154-1: aiguille de sapin
+155-1: abiotique
+156-1: abiotrophie
+157-1: abiosis
+158-1: Épinette de Norvège
+159-1: aiguille de sapin
+160-1: Abishag
+161-1: Abyssin
+162-1: éthiopien
+163-1: Abyssinie
+164-1: Ethiopie
+165-1: Abyssin
+166-1: éthiopien
+167-1: Abyssinie
+168-1: Ethiopie
+170-1: en abîme
+171-1: abîme
+177-1: baccalauréat
+178-2: lié à l'obtention du diplôme d'études secondaires
+179-1: baccalauréat
+182-1: examen du baccalauréat
+183-1: diplômée du baccalauréat
+186-1: abjuration
+189-1: abjuration
+190-1: ablatif
+191-1: âge de l'ablation
+192-1: ablater
+194-1: ablactation
+195-1: ablactation
+196-1: ablactation
+197-1: sevrer
+198-1: ablatif
+200-1: ablaut
+201-1: apophonie
+202-1: capablepharia
+204-1: ablution
+206-1: abnégateur
+207-1: renoncer
+208-1: se nier
+212-1: Abner
+213-1: anormal
+214-1: anomalie
+215-1: anormalement
+216-1: anomalie
+217-1: livre de ABC
+224-1: débutant
+226-1: abolisseur
+227-1: abolisable
+232-1: abolitionnisme
+233-1: abolitionniste
+234-1: abolition
+235-1: abrogation
+236-1: abolitionnisme
+237-1: abolitionniste
+238-1: abolitionnisme
+239-1: abolitionniste
+240-1: abolition
+241-1: abrogation
+242-1: présure-estomac
+243-1: bombe atomique
+244-1: bombe atomique
+245-1: bombe A.
+255-1: à éviter
+256-1: abhorrer
+257-1: aversion
+257-1: répulsion
+257-1: horreur
+258-1: abomination
+261-1: abominateur
+262-1: abominablement
+263-1: abomination
+264-1: forte aversion
+269-1: abominable
+270-1: abominablement
+271-1: dégoûter
+272-1: dissuader
+273-1: repousser
+281-1: horreur
+282-1: abomination
+283-1: atrocité
+284-1: horreur
+285-1: abominablement
+286-1: abominable
+287-1: abominable personne
+293-1: méchant
+294-1: fripouille
+295-1: abonnement
+296-1: transaction d'abonnement
+297-1: base d'abonnement
+298-1: abonné
+299-1: abonnés
+300-1: carte d'abonnement
+301-1: abonnement
+302-1: par abonnement
+303-1: avec abonnement
+304-1: disponible sur abonnement
+305-1: bureau d'abonnement
+306-1: flux (RSS, par exemple)
+307-1: lecteur RSS
+308-1: lecteur de flux
+309-1: flux RSS
+310-1: fil d'actualité
+311-1: groupe d'abonnement
+316-1: dossiers abonnés
+317-1: carrte d'abonnement
+318-1: abonnement
+319-1: prix de l'abonnement
+321-1: abonnement RSS
+322-1: abonnement serveur
+323-1: paiement d'abonnement
+324-1: prix de l'abonnement
+325-1: lié à l'abonnement
+326-1: abonnement
+327-1: contenu souscrit
+328-1: syndiquer
+329-1: fil RSS syndiqué
+330-1: syndication
+331-1: aboral
+333-1: autochtone
+336-1: avorté
+340-1: avortement
+341-1: enclins à avorter
+345-1: abortif
+350-1: outil d'avortement
+351-1: avorteur
+352-1: avortement
+353-1: interruption de grossesse
+354-1: fausse couche ou mort-né
+355-1: foetus avorté
+359-1: abortif
+360-1: enfant avorté
+361-1: abrasif
+362-1: substance abrasive
+363-1: abraser
+364-1: abrasion
+365-1: abrahamique
+366-1: Abrahamitique
+369-1: abrachius
+370-1: Abraham
+371-1: Abraham
+372-1: abrasif
+374-1: s'effondrer
+375-1: abrasif
+377-1: abréviation
+378-1: relatif aux abricots
+379-1: abricotier
+380-1: eau de vie d'abricot
+381-1: fleur d'abricot
+382-1: feuille d'abricot
+385-1: abrogatif
+386-1: abrogateur
+387-1: abroger
+388-1: abrogation
+389-1: abroger
+390-1: abrogation
+392-1: Abruzzes (région d'Italie)
+394-1: quelque chose d'abrupt
+395-1: une chose abrupte
+396-1: brusquement
+400-1: hâte
+401-1: brusquerie
+402-1: personne abrupte
+403-1: Abruzzes (région en Italie)
+404-1: Abruzzes (région d'Italie)
+405-1: Absalom, Absalon ou Avshalom
+406-1: écoulement de pus
+407-1: abcès
+408-1: se former en abcès
+410-1: axe des abscisses
+411-1: axe des x
+414-1: descendre en rappel
+415-1: absidal
+419-1: absinthique
+420-1: absinthinien
+421-1: sobre
+423-1: liqueur d'absinthe
+425-1: absinthisme
+426-1: absinthe
+432-1: adresse absolue
+433-1: hauteur au dessus du niveau de la mer
+434-1: hauteur absolue
+435-1: référence de cellule absolue
+436-1: chemin absolu
+437-1: chemin complet
+438-1: extremum absolu
+439-1: erreur absolue
+440-1: humidité absolue
+441-1: codage absolu
+442-1: lien absolu
+443-1: monopole absolu
+444-1: perméabilité absolue
+445-1: solfège (absolu)
+446-1: hauteur absolue
+447-1: URL absolue
+450-1: chemin absolu
+451-1: absolument
+452-1: distribution absolument continue
+454-1: pas du tout
+455-1: en aucun cas
+456-1: tout sauf
+457-1: Absolument pas!
+458-1: absolu
+459-1: absolutiser
+460-1: absolutiste
+462-1: absolutiste
+463-1: un absolu
+464-1: absolutoire
+465-1: absous
+466-1: absoudre
+467-1: absous, absoute 
+468-1: graciable
+474-1: absorbant (pour l’attention de la personne)
+479-1: absorbant
+480-1: pensées absorbantes
+481-1: absorbant
+484-1: être absorbé par son travail
+485-1: perplexité
+486-1: immersion
+487-1: préoccupation
+488-1: absorbant
+489-1: absorbé dans
+490-1: perplexité
+491-1: immersion
+492-1: préoccupation
+493-1: absorption
+494-1: spectre d'absorption
+495-1: sobre
+496-1: abstème
+497-1: abstinence (totale)
+498-1: abstinent
+499-1: sobre
+501-1: abstinent
+503-1: abstinence
+504-1: sobre
+505-1: sobriété
+506-1: volonté de s'abstenir
+511-1: abstinent
+514-1: abstention
+515-1: abstinent (des plaisirs)
+517-1: type de données abstrait
+518-1: machine abstraite
+519-1: machine abstraite
+520-1: arbre de syntaxe abstraite
+521-1: syntaxe abstraite
+522-1: abstraction
+524-1: pensées abstraites
+525-1: abstraitement
+528-1: rendre abstrait
+529-1: abstraitisme
+530-1: résumé (anglicisme)
+532-1: absurdité
+533-1: non-sens
+534-1: fadaise
+535-1: absurdement
+536-1: absurdité
+537-1: absurdité
+538-1: Abou Dabi
+539-1: Abou Dabi
+540-1: Abuja
+542-1: manque de volonté
+551-1: abondamment
+553-1: surabondant
+554-1: très abondamment
+555-1: être super abondant
+556-1: aubaine
+557-1: corne d'abondance
+558-1: surabondance
+559-1: excès
+565-1: abutilon (genre de conifères à feuilles larges)
+568-1: abvolt (abV = 10⁻⁸ volts) 
+569-1: -aĉ- (péjoratif)
+570-1: moche
+571-1: pourri
+572-1: qualité médiocre
+573-1: piteux
+574-1: misérable
+575-1: pas bon
+576-1: chose dégoûtante
+580-1: misérablement
+581-1: médiocrement
+582-1: Achinais
+583-1: acéphale
+584-1: acéphale
+585-1: organisme acéphale
+586-1: acéphales
+587-1: acénaphtène (C₁₂H₁₀)
+589-1: d'un érable
+597-1: âcrement
+598-1: amèrement
+599-1: cruellement
+600-1: acerbité
+601-1: rendre acerbe
+602-1: aciduler
+603-1: branche d'érable
+605-1: platane commun, platane à feuilles d'érable
+608-1: sirop d'érable
+609-1: sucre d'érable
+610-1: acétique
+611-1: acétabulum
+612-1: acétabulaire
+613-1: acétabulum
+614-1: acide acétique
+615-1: acheter
+616-1: continuer à acheter
+618-1: acquisition
+619-1: achat
+620-1: emplette
+621-1: course
+624-1: acquérir
+625-1: acheter
+627-1: acétaldéhyde, éthanal (CH₃CHO)
+628-1: marché
+630-1: acheteuse
+635-1: acide acétique (CH₃-CO-OH)
+636-1: acétaldéhyde, éthanal (CH₃CHO)
+637-1: anhydride acétique, anhydride éthanoïque (C₄H₆O₃)
+638-1: acétyler
+640-1: acétobactérie
+641-1: acétobactéries, bactéries de l'acide acétique
+645-1: boutique
+646-1: magasin
+647-1: intérêt (à un achat)
+652-1: achat en vente publique
+653-1: acétobactéries, bactéries de l'acide acétique
+654-1: transformer en vinaigre
+655-1: être acheter
+656-1: acétification
+657-1: acétifiant
+658-1: acétyle- (COCH₃)
+659-1: acétyle (COCH₃)
+661-1: acétyler
+662-1: acétyler
+663-1: acétylcholine (C₇NH₁₆O₂⁺)
+665-1: acide acétylsalicylique (C₉H₈O₄) 
+666-1: acide acétylsalicylique (C₉H₈O₄) 
+667-1: acétylsalicylate
+668-1: acide acétylsalicylique (C₉H₈O₄) 
+669-1: aspirine
+670-1: acide acétylsalicylique (C₉H₈O₄)
+671-1: aspirine
+672-1: acheteur
+676-1: panier
+677-1: liste de courses
+684-1: acétomètre
+685-1: acétimètre
+686-1: acétonique
+687-1: acétonémie
+688-1: acétonyle
+690-1: acétonurie (acétone en excès dans l'urine)
+691-1: pouvoir d'achat
+693-1: panier d'achat
+694-1: sac d'achat
+695-1: coût
+696-1: coût d'achat
+699-1: faire des courses
+----------------------
+700-1: l'ère acheuléenne de la préhistoire
+701-1: être affreux
+702-1: pourri
+703-1: terrible
+709-1: choucroute
+710-1: morello
+711-1: indice d'acide
+712-1: indice d'acide
+713-1: bicarbonate de sodium
+715-1: bisulfate de sodium
+716-1: douce-amère
+717-1: acide
+718-1: bain d'acide
+719-1: aigre
+720-1: tartly
+721-1: acidité
+722-1: tarte
+723-1: acide
+724-1: acidulé
+725-1: faire de l'acide
+726-1: acidulation
+727-1: acidité
+728-1: être acide
+729-1: être aigre
+730-1: acidifiable
+731-1: acidifier
+732-1: acide
+733-1: acidifier
+734-1: (grandir) aigre
+735-1: devenir acidifié
+736-1: au lait aigre
+737-1: acidification
+738-1: acidification
+739-1: acidimétrie
+740-1: acidomètre
+741-1: résistant aux acides
+742-1: aciduler
+743-1: crème sure
+744-1: acidimétrie
+745-1: brûler à l'acide
+746-1: indice d'acide
+747-1: indice d'acide
+749-1: formation d'acide
+750-1: acidimétrie
+751-1: mètre pour acide
+752-1: acidotique
+753-1: acidose
+754-1: pluies acides
+755-1: acide-rapide
+756-1: résistant aux acides
+757-1: résistant aux acides
+758-1: sauerbraten (rôti aigre)
+759-1: sel d'acide
+760-1: goutte d'acide
+761-1: réservoir d'acide
+762-1: faire mal
+763-1: faire empirer
+764-1: devenir mauvais
+765-1: devenir terrible
+766-1: s'aggrave
+767-1: acyclique
+768-1: acinar
+769-1: acinose
+770-1: acineux
+771-1: aciniforme
+772-1: acinus
+773-1: aciniforme
+774-1: acinar
+775-1: acinose
+776-1: acineux
+777-1: aciniforme
+781-1: Acis (personnage mythologique)
+782-1: malodorant
+783-1: malodorant
+784-1: puant
+785-1: malodorante
+786-1: les Açores
+787-1: Objets de données ActiveX
+788-1: composant ActiveX
+789-1: objet ActiveX
+790-1: contrôle ActiveX
+791-1: atout
+792-1: misérable (personne méprisable)
+793-1: (dénote la continuation ou la répétition constante d'une action)
+794-1: continu
+795-1: Ada
+796-1: adagio
+798-1: adagietto
