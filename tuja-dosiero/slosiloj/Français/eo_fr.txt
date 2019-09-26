@@ -466,81 +466,73 @@
 695-1: coût
 696-1: coût d'achat
 699-1: faire des courses
-----------------------
 700-1: l'ère acheuléenne de la préhistoire
 701-1: être affreux
 702-1: pourri
 703-1: terrible
 709-1: choucroute
-710-1: morello
+710-1: acide morello (kriek)
 711-1: indice d'acide
-712-1: indice d'acide
-713-1: bicarbonate de sodium
-715-1: bisulfate de sodium
-716-1: douce-amère
+713-1: bicarbonate de sodium (NaHCO₃)
+715-1: bisulfate de sodium (NaHSO₄)
+716-1: aigre-doux
 717-1: acide
 718-1: bain d'acide
 719-1: aigre
-720-1: tartly
+720-1: aigrement
 721-1: acidité
-722-1: tarte
+722-1: sur
 723-1: acide
 724-1: acidulé
-725-1: faire de l'acide
+725-1: aciduler, rendre aigre
 726-1: acidulation
 727-1: acidité
 728-1: être acide
 729-1: être aigre
 730-1: acidifiable
 731-1: acidifier
-732-1: acide
 733-1: acidifier
-734-1: (grandir) aigre
 735-1: devenir acidifié
-736-1: au lait aigre
+736-1: acidifier du lait (coagulation du lait, lait caillé)
 737-1: acidification
 738-1: acidification
 739-1: acidimétrie
 740-1: acidomètre
 741-1: résistant aux acides
 742-1: aciduler
-743-1: crème sure
+743-1: crème aigre, crème sure
 744-1: acidimétrie
 745-1: brûler à l'acide
 746-1: indice d'acide
-747-1: indice d'acide
 749-1: formation d'acide
 750-1: acidimétrie
-751-1: mètre pour acide
+751-1: acidimètre
 752-1: acidotique
 753-1: acidose
 754-1: pluies acides
-755-1: acide-rapide
 756-1: résistant aux acides
 757-1: résistant aux acides
-758-1: sauerbraten (rôti aigre)
+758-1: sauerbraten (rôti sauce aigre-douce)
 759-1: sel d'acide
-760-1: goutte d'acide
+760-1: bonbon acidulé
 761-1: réservoir d'acide
 762-1: faire mal
-763-1: faire empirer
+763-1: empirer
 764-1: devenir mauvais
 765-1: devenir terrible
-766-1: s'aggrave
+766-1: s'aggraver
 767-1: acyclique
-768-1: acinar
 769-1: acinose
 770-1: acineux
 771-1: aciniforme
 772-1: acinus
 773-1: aciniforme
-774-1: acinar
 775-1: acinose
 776-1: acineux
 777-1: aciniforme
 781-1: Acis (personnage mythologique)
 782-1: malodorant
-783-1: malodorant
+783-1: nauséabond
 784-1: puant
 785-1: malodorante
 786-1: les Açores
@@ -550,8 +542,646 @@
 790-1: contrôle ActiveX
 791-1: atout
 792-1: misérable (personne méprisable)
-793-1: (dénote la continuation ou la répétition constante d'une action)
+793-1: -ad- (dénote la continuation ou la répétition constante d'une action)
 794-1: continu
 795-1: Ada
 796-1: adagio
 798-1: adagietto
+800-1: Adalbert
+801-1: Adalbert
+802-1: adamique
+804-1: émail
+805-1: damassé
+806-1: adamite
+808-1: pomme d’Adam
+809-1: pomme d’Adam
+810-1: ocre rouge
+811-1: adaptatif
+812-1: adaptation
+813-1: adaptation
+814-1: adaptable
+815-1: adaptabilité
+825-1: ajuster à la fenêtre
+826-1: ajuster au cadre
+827-1: ajuster à la taille
+828-1: orchestrer
+830-1: format adaptatif
+831-1: adaptable
+832-1: adaptable
+833-1: adaptabilité
+836-1: compromis
+837-1: adaptation
+838-1: ajustement
+839-1: cadre de l'adaptateur
+840-1: carte adaptateur
+843-1: adaptateur LAN
+844-1: pilote d'adaptateur
+845-1: adaptateur
+846-1: adapté
+847-1: adaptation
+848-1: adaptation
+849-1: ajustement
+850-1: adaptation des polices à l'espace
+851-1: adaptation des polices à l'espace
+852-1: orchestration
+853-1: adaptométrie
+854-1: Adar
+855-1: rime (en utilisant des suffixes) 
+856-1: rime non qualifiée utilisant des suffixes (comme –ad-)
+857-1: Adbéel
+858-1: continuellement
+859-1: en continu
+860-1: à plusieurs reprises
+861-1: souvent
+862-1: Akademio de Esperanto
+866-1: de manière appropriée
+867-1: convenablement
+868-1: adéquatement
+869-1: adéquation
+870-1: Adélaïde
+871-1: Adélaïde
+872-1: Terre Adélie
+873-1: Adèle
+874-1: Aethelstan
+875-1: adéno- (du grec ancien ἀδήν, adên (gland))
+876-1: Aden
+877-1: golfe d'Aden
+878-1: adénoïdal
+879-1: adénectomie
+881-1: adénite
+882-1: glande
+883-1: adéno- (du grec ancien ἀδήν, adên (gland))
+884-1: Aden
+885-1: adénoïdal
+886-1: adénoïdes
+887-1: adénoïdisme
+888-1: adénoïdite
+889-1: adénoïde
+890-1: adénoïdes
+891-1: adénocarcinome
+892-1: adénome
+893-1: adénopathie
+894-1: adénoviral
+895-1: adénovirus
+896-1: adénozyle
+897-1: adénozine
+898-1: adenpathy
+899-1: s'adapter
+917-1: adhérence
+918-1: adhésivité
+919-1: adhésif
+920-1: adhésivité
+921-1: adhésif
+924-1: adhésif
+927-1: adhérer
+928-1: adhérence
+929-1: adhérer
+930-1: garder
+931-1: continuer
+932-1: adiabatique
+933-1: condition adiabatique
+939-1: au revoir
+940-1: adieu
+941-1: banquet d'adieu
+942-1: discours d'adieu
+944-1: mot d'au revoir
+946-1: en train de se quitter
+947-1: comme adieu
+948-1: en train de se séparer
+954-1: embrasser au revoir
+955-1: adieu
+956-1: au revoir
+957-1: déconnexion
+958-1: ajouter
+959-1: additif
+960-1: groupe additif
+962-1: additif
+963-1: opérateur d'addition
+966-1: additionneur
+967-1: machine à additionner
+968-1: machine à additionner
+970-1: Adyghé
+971-1: Adige (fleuve)
+972-1: adynamique
+973-1: adipeux
+974-1: adiposité
+976-1: graisse 
+978-1: adipocyte
+979-1: cellule adipeuse
+980-1: adipocire (gras de cadavre)
+981-1: adipogenèse
+982-1: adipeux
+983-1: adipeux
+984-1: Addis Abeba
+985-1: Addis Abeba
+986-1: addisonien
+987-1: maladie d’Addison
+988-1: Addison
+989-1: adyton
+990-1: adjectival
+991-1: transformer en adjectif
+994-1: adjonction
+995-1: adverbial
+998-1: par appel d'offres
+1004-1: adjonction
+1008-1: adjuration
+1009-1: adjudication
+1012-1: Adama
+1013-1: adminiculum
+1014-1: administratif
+1015-1: administratif
+1016-1: back-end
+1017-1: configuration administrative
+1018-1: machine de gouvernement
+1019-1: vulnérabilité administrative
+1020-1: file d'attente d'administration
+1021-1: groupe de gestion
+1022-1: outils administratifs
+1023-1: interface back-end
+1024-1: année financière
+1025-1: console de gestion
+1026-1: informations d'identification administratives
+1027-1: intendance
+1028-1: mode de gestion
+1029-1: système de gestion
+1030-1: administratif
+1031-1: administrativement
+1032-1: administration
+1035-1: gestion
+1036-1: administratif
+1037-1: système d'information de gestion
+1038-1: administration
+1039-1: gouvernance
+1040-1: gestion
+1042-1: gestion des congés
+1043-1: gestion des licences
+1044-1: gestion des droits
+1045-1: gestion de la terminologie
+1046-1: administration des utilisateurs
+1047-1: frais administratifs
+1051-1: administrateur
+1052-1: gérant
+1053-1: administrateur réseau
+1054-1: administration
+1055-1: personnel administratif
+1056-1: administrateur
+1057-1: gérant
+1058-1: administrativement
+1064-1: outil de gestion
+1065-1: gestionnaire de source
+1066-1: gestionnaire de modèles
+1067-1: gestionnaire d'utilisateurs
+1068-1: centre d'appareils
+1069-1: gestionnaire de licence
+1070-1: administration
+1071-1: gestion
+1072-1: administratrice
+1073-1: administrateur
+1074-1: administration
+1075-1: gestion
+1077-1: admirer
+1078-1: admiration
+1079-1: admiration
+1080-1: d'un amiral
+1081-1: d'une amirauté
+1082-1: amirauté
+1083-1: amirement
+1084-1: épouse de l’amiral
+1085-1: amirauté
+1088-1: navire amiral
+1089-1: îles de l'amirauté
+1090-1: admiratrice
+1091-1: admirateur
+1092-1: admiratif
+1093-1: impressionnant
+1096-1: admirablement
+1100-1: admonitoire
+1101-1: avertisseur
+1109-1: lettre de relance
+1110-1: lettre de recouvrement (dette)
+1113-1: adobe
+1115-1: adolescent
+1116-1: adolescence
+1118-1: adolescente
+1119-1: adolescent
+1120-1: adolescence
+1121-1: puberté
+1122-1: être adolescent
+1124-1: adolescente
+1134-1: adonis d'automne
+1135-1: Adonis
+1136-1: Apollon (astéroïde)
+1137-1: Adonis
+1138-1: adoptif
+1139-1: adoption
+1140-1: parents adoptifs
+1141-1: adoptant
+1142-1: adopté
+1143-1: par adoption
+1144-1: adoptable
+1146-1: parent adoptif
+1147-1: adopté
+1148-1: adoptif
+1149-1: adopté
+1150-1: enfant adoptif
+1151-1: adoption
+1152-1: enfant adoptif
+1153-1: adorant
+1154-1: adorer
+1156-1: adoration
+1157-1: culte
+1161-1: adoratrice
+1162-1: adorateur
+1164-1: adorée
+1165-1: adoré
+1166-1: centre de culte
+1167-1: lieu de culte
+1171-1: adorable
+1172-1: adorablement
+1173-1: caractère adorable
+1176-1: adoration
+1177-1: culte
+1178-1: culte
+1180-1: glande surrénale
+1182-1: adressage
+1183-1: mode d'adressage
+1184-1: adressage
+1187-1: machine à adresser
+1188-1: adressographe
+1189-1: liste de diffusion
+1196-1: attribution d'adresse
+1197-1: barre d'adresse
+1198-1: bus d'adresse
+1199-1: adressable
+1200-1: étiquette d'adresse
+1201-1: mappage d'adresses
+1202-1: pool d'adresses
+1205-1: adressage
+1206-1: machine à adresser
+1207-1: machine à adresser
+1208-1: pointeur d'adresse
+1209-1: machine à adresser
+1210-1: adresseur
+1211-1: expéditeur
+1212-1: adressé
+1213-1: destinataire
+1214-1: personne adressée
+1215-1: champ d'adresse
+1216-1: note d'expédition
+1217-1: répertoire
+1217-1: carnet d'adresses
+1218-1: machine à adresser
+1219-1: technique d'adressage
+1220-1: pointeur
+1221-1: compteur d'emplacement
+1223-1: adresse du serveur
+1224-1: adresse de facturation
+1225-1: bus d'adresse
+1226-1: espace d'adressage
+1227-1: champ d'adresse
+1228-1: machine à adresser
+1229-1: niveau d'indirection
+1230-1: registre d'adresses
+1231-1: changement d'adresse
+1232-1: espace d'adressage
+1233-1: adressage indirect
+1234-1: traduction d'adresse
+1235-1: résolveur
+1236-1: destinataire
+1237-1: champ d'adresse
+1238-1: Adriatique
+1239-1: mer Adriatique
+1241-1: Andrinople
+1242-1: Adriatique
+1243-1: Adriatique
+1244-1: mer Adriatique
+1247-1: adsorbant
+1248-1: adsorption
+1249-1: adsorption
+1250-1: adsorbat
+1251-1: adsorbant
+1252-1: adsorption
+1254-1: adsorbant
+1255-1: en adsorbant
+1256-1: adsorber
+1257-1: adsorption
+1258-1: adsorbant
+1265-1: astringent
+1266-1: astringemment
+1267-1: durement
+1268-1: acerbe
+1269-1: faire sécher
+1270-1: astringent
+1271-1: adducteur
+1272-1: muscle adducteur
+1273-1: adducter
+1274-1: adduction
+1275-1: adducter
+1276-1: adducteur
+1277-1: adducteur
+1278-1: adducteur
+1279-1: adulation
+1280-1: adulation
+1281-1: Odollamite
+1282-1: adulateur
+1283-1: adulation
+1284-2: adulaire (hécatolite, pierre de lune)
+1285-1: adulatoire
+1286-1: aduler
+1289-1: adulte
+1290-1: adultère
+1291-1: adultère
+1293-1: adultère
+1294-1: adultérer
+1295-1: falsifier
+1296-1: détériorer
+1297-1: adultère
+1298-1: adultération
+1301-1: adultère
+1302-1: femme adultère
+1303-1: adultère
+1305-1: adultère
+1307-1: advowson (patronage)
+1308-1: advection
+1309-1: Adventiste
+1310-1: adventice
+1311-1: adventitiel
+1313-1: Adventisme
+1315-1: adventiste (confession religieuse)
+1316-1: adventif
+1317-1: adventif
+1319-1: l'Avent
+1320-1: adverbial
+1321-1: adverbialement
+1322-1: adverbialité
+1323-1: adverbialiser
+1326-1: défavorablement
+1327-1: adversaire
+1328-1: antagoniste
+1330-1: d'un avocat
+1332-1: la profession d'avocat
+1333-1: mauvais avocat
+1334-1: avocat immoral
+1335-1: plaidoyer
+1336-1: advocation
+1337-1: cabinet d'avocats
+1338-1: défendre
+1339-1: être accepté au barreau
+1348-1: aoidos
+1352-1: défense aérienne
+1353-1: résistance à l'air
+1354-1: masse d'air
+1355-1: force aérienne
+1356-1: base aérienne
+1358-1: raid aérien
+1359-1: frappe aérienne
+1360-1: bain d'air
+1361-1: bataille aérienne
+1362-1: base aérienne
+1363-1: besoin d'air
+1364-1: besoin d'air
+1365-1: ventilateur
+1366-1: courant d'air
+1367-1: rafale d'air
+1368-1: hydroglisseur
+1369-1: frein à air
+1370-1: à l'aérographe
+1371-1: aérographe
+1372-1: airbus
+1373-1: circulation de l'air
+1374-1: défense aérienne
+1375-1: anti-aérien
+1376-1: artillerie anti aérienne
+1377-1: canon anti-aérien
+1378-1: défense aérienne
+1379-1: défenses anti-aériennes
+1381-1: conduit d'air
+1382-1: par voie aérienne
+1383-1: aéré
+1384-1: par les airs
+1385-1: refroidi par air
+1386-1: aéré
+1387-1: sortie d'air
+1388-1: dégagement d'air
+1389-1: purge
+1390-1: valve de purge
+1391-1: embolie gazeuse
+1392-1: entrée d'air
+1393-1: escadron aérien
+1394-1: poche d'air (aviation)
+1395-1: filtre à air
+1396-1: flotte aérienne
+1397-1: débit d'air
+1398-1: vue aérienne
+1399-1: photographie aérienne
+1400-1: carte aérienne
+1401-1: assainisseur d'air
+1402-1: carabine à air comprimé
+1403-1: régulateur d'air
+1404-1: aérodrome
+1405-1: aéroport
+1406-1: aérodrome
+1407-1: hélice
+1408-1: aérer
+1409-1: hermétique
+1410-1: anaérobie
+1411-1: chambre à air
+1413-1: poche d'air
+1414-1: à roulement à air (comme broche à roulement à air)
+1415-1: vanne d'air
+1416-1: bouches d'aération
+1417-1: climatiser
+1418-1: climatisé
+1420-1: compresseur d'air
+1421-1: climatiseur
+1423-1: corridor aérien
+1424-1: voie aérienne
+1425-1: coussin d'air
+1426-1: compagnie aérienne
+1427-1: pilote de ligne
+1428-1: compagnie aérienne
+1429-1: voies respiratoires
+1430-1: matelas pneumatique
+1431-1: pollution de l'air
+1432-1: mal de l'air
+1433-1: le mal de l'air
+1434-1: carte aérienne
+1435-1: masse d'air
+1436-1: matelas pneumatique
+1437-1: ingénieur de vol
+1438-1: mécanicien de vol
+1439-1: aéronautique
+1440-1: aviation
+1441-1: intolérant à l'air
+1442-1: intolérant à l'air
+1444-1: acrobatique
+1445-1: acrobatiquement
+1446-1: voltige
+1449-1: aérobie
+1450-1: voltige
+1451-1: aérobe
+1452-1: aérobium
+1453-1: aérobiologie
+1454-1: airbus
+1455-1: aérocyste
+1456-1: cellule d'air
+1457-1: défense aérienne
+1458-1: aérodynamique
+1459-1: fuselé
+1460-1: aérodynamiquement
+1461-1: aérodynamique
+1462-1: aérodyne
+1466-1: aérophagie
+1467-1: aérophysique
+1469-1: aérophobie
+1470-1: aérophore
+1471-1: vue aérienne
+1472-1: levé topographique aérien
+1473-1: fuselage
+1474-1: ayant la propriété de glisser en l'air
+1475-1: aérographie
+1476-1: aérogramme
+1477-1: lettre aérienne
+1478-1: aéroport
+1479-1: conduit d'air
+1480-1: aérolitique
+1484-1: aérolithologie
+1485-1: aérologique
+1487-1: aérologue
+1488-1: aérologie
+1489-1: aérologue
+1490-1: aéromancie
+1491-1: austromancie
+1492-1: aérométrique
+1493-1: aérométrie
+1495-1: aéronautique
+1497-1: aéronautique
+1499-1: aéronautique
+1503-1: navigation aérienne
+1504-1: sarbacane
+1505-1: Aréopage
+1508-1: aérifère
+1509-1: poste aérienne
+1511-1: pression atmosphérique
+1512-1: pompe à air
+1513-1: aéroscope
+1515-1: espace aérien
+1516-1: aérostatique
+1517-1: aérostatique
+1520-1: aérothérapeutique
+1521-1: pistolet à air
+1522-1: paysage aérien
+1523-1: vue aérienne
+1524-1: aérographe
+1525-1: ballon (jouet)
+1527-1: carabine à air comprimé
+1528-1: avion
+1529-1: pollution de l'air
+1530-1: pompe à air
+1531-1: pont aérien
+1532-1: transport aérien
+1533-1: transport aérien
+1534-1: transporter par avion
+1535-1: lettre aérienne
+1536-1: aérogramme
+1537-1: par avion
+1538-1: timbre poste aérienne
+1539-1: poste aérienne
+1540-1: pression atmosphérique
+1541-1: frein à air
+1543-1: alimentation en air
+1544-1: pompe à air
+1545-1: puits d'air
+1546-1: vitesse
+1547-1: suprématie aérienne
+1548-1: régulateur d'air
+1549-1: airbag
+1550-1: puits d'air
+1551-1: fret aérien
+1553-1: aviateur
+1554-1: espace aérien
+1555-1: hôtesse de l'air
+1557-1: agent de bord
+1558-1: steward
+1562-1: taxi aérien
+1563-1: traîne (en aviation)
+1564-1: anaérobie
+1565-1: anaérobie
+1566-1: transport aérien
+1568-1: poche d'air
+1569-1: chambre à air
+1570-1: tube
+1571-1: cartouche d'air
+1572-1: aéré
+1573-1: grille d'air
+1574-1: aération
+1579-1: aérateur
+1580-1: vanne d'air
+1581-1: aéronautique
+1582-1: aviation
+1583-1: transport aérien
+1584-1: aéronaute
+1585-1: dirigeable
+1587-1: bulle d'air
+1588-1: vessie natatoire
+1589-1: vue aérienne
+1590-1: aérobie
+1591-1: voies respiratoires
+1599-1: courtoisie
+-----------------------
+1600-1: gentiment
+1601-1: affablement
+1602-1: affabilité
+1603-1: gentillesse
+1604-1: convivialité
+1605-1: le plus charmant
+1606-1: d'une manière très amicale
+1607-1: ergonomique
+1608-1: conception ergonomique
+1609-1: conception ergonomique
+1610-1: ergonomie
+1611-1: personne affable
+1612-1: aphagie
+1613-1: aphaniptère (le groupe d'insectes qui inclut la puce)
+1614-1: Afar (Éthiopie)
+1615-1: aphasique
+1617-1: aphasique
+1620-1: émotionnellement
+1621-1: sentimentalement
+1624-1: affecté
+1625-1: effroyablement
+1633-1: affectation
+1637-1: clairement
+1638-1: visiblement
+1639-1: manifestement
+1640-1: fade
+1641-1: terne
+1642-1: affection
+1647-1: visiblement
+1653-1: affecté (attitude)
+1657-1: femme émotive
+1663-1: professionnel
+1665-1: afférent
+1666-1: petite chose
+1667-1: petite matière
+1668-1: mot formé en tronquant son son initial
+1671-1: pertinence
+1672-1: agenda
+1681-1: question de goût
+1682-1: courrier d'affaires
+1683-1: chargé d’affaires
+1685-1: homme d'affaires
+1686-1: voyage d'affaires
+1687-1: afghan
+1688-1: Chien afghan
+1689-1: femme afghane
+1690-1: femme afghane
+1691-1: Afghanistan
+1692-1: Afghanistan
+1693-1: Afghanistan
+1694-1: afghani
+1695-1: afghan
+1696-1: Afghanistan
+1697-1: Chien afghan
+1698-1: affidavit
+1699-1: puceron
