@@ -1128,7 +1128,6 @@
 1590-1: aérobie
 1591-1: voies respiratoires
 1599-1: courtoisie
------------------------
 1600-1: gentiment
 1601-1: affablement
 1602-1: affabilité
@@ -1164,7 +1163,7 @@
 1665-1: afférent
 1666-1: petite chose
 1667-1: petite matière
-1668-1: mot formé en tronquant son son initial
+1668-1: aphérèse
 1671-1: pertinence
 1672-1: agenda
 1681-1: question de goût
@@ -1177,11 +1176,191 @@
 1689-1: femme afghane
 1690-1: femme afghane
 1691-1: Afghanistan
-1692-1: Afghanistan
+1692-1: Afghan
 1693-1: Afghanistan
 1694-1: afghani
 1695-1: afghan
 1696-1: Afghanistan
 1697-1: Chien afghan
-1698-1: affidavit
+1698-1: affidavit (déclaration sous serment)
 1699-1: puceron
+1704-1: aphidivores
+1705-1: affixal
+1706-1: attacher
+1707-1: à mettre en place
+1712-1: géométrie affine
+1716-1: espace affine
+1718-1: variété affine
+1720-1: affiner (métal)
+1721-1: raffinage (métallurgie)
+1723-1: avoir des affinités
+1724-1: affinité
+1725-1: tableau d'affichage
+1726-1: porte-enseigne
+1727-1: porte-plaque
+1728-1: porte-affiches
+1732-1: poster un message
+1733-1: afficheur
+1734-1: borne publicitaire (Colonne Morris)
+1735-1: puceron
+1745-1: tableau d'affichage
+1746-1: panneau d'affichage
+1748-1: aimable
+1749-1: aimablement
+1750-1: affligé
+1751-1: navré
+1754-1: affliction
+1755-1: supplice
+1756-1: épreuve
+1757-1: douloureusement
+1763-1: triste
+1765-1: aphonique
+1768-1: aphoristique
+1769-1: aphoriquement
+1771-1: aphoriste
+1772-1: afro-américain
+1773-1: afro-américain
+1774-1: machine à affranchir
+1778-1: port payé
+1779-1: estampillé
+1781-1: frais de port
+1782-1: tarifs postaux
+1783-1: Afro-asiatique
+1784-1: Afro-asiatique
+1785-1: Africain
+1786-1: Africaine
+1787-1: Africain
+1788-1: Afrikaans
+1789-1: Afrikaans
+1790-1: langue afrikaans
+1791-1: Afrikaner
+1792-1: afrikaans (langue)
+1793-1: affriquée
+1796-1: Afro-asiatique
+1797-1: africaniser
+1798-1: africanisme
+1800-1: éfrit 
+1801-1: afrit (عفريت)
+1802-1: afro-
+1803-1: d'Aphrodite
+1804-1: Aphrodite
+1805-1: Aphrodite
+1807-1: aphrodisiaque
+1808-1: aphrodisiaque
+1809-1: aphrodisiaque
+1810-1: aphrodisiaque
+1811-1: aphrodisiaque
+1812-1: aphrodisiaque
+1813-1: aphrodisiaque
+1814-1: excitation (sexuelle)
+1817-1: ulcère aphteux
+1818-1: fièvre aphteuse
+1824-1: flèche (d'un affût de canon)
+1825-1: actif
+1827-1: acerbe
+1828-1: agacé
+1829-1: désagréable
+1830-1: acerbe
+1831-1: acridieusement
+1832-1: désagréablement
+1833-1: acerbe
+1838-1: désagréable
+1839-1: devenir agacé, irrité
+1840-1: irritant
+1841-1: agir
+1842-1: se produire
+1843-1: se dérouler
+1844-1: action
+1845-1: activité
+1846-1: Agag
+1848-1: Agamedes (mythologie)
+1849-1: Agamemnon
+1850-1: Agamemnon
+1851-1: agamique (biologie)
+1852-1: héron agami
+1853-1: onoré agami
+1854-1: lézard agamide
+1855-1: agent
+1856-1: aga
+1857-1: agapanthe (fleur)
+1862-1: agaricacées
+1863-1: agaricoïde
+1866-1: Adjarie
+1867-1: agar (-agar)
+1868-1: agate
+1870-1: agatiser
+1872-1: Agathocle
+1873-1: agave
+1874-1: tequila
+1877-1: vin d'agave
+1879-1: opératoire
+1880-1: rivière Again
+1882-1: activement
+1883-1: activité
+1889-1: Agénor
+1890-1: agentiel
+1891-1: entremise
+1895-1: agence commerciale
+1896-1: Ageratum conyzoides
+1897-1: Agésilas
+1903-1: agir selon
+1907-1: agir sous l'influence de
+1908-1: actionner
+1909-1: Agincourt
+1915-1: agiotage
+1916-1: mocassin (serpent)
+1917-1: agitation
+1918-1: incendiaire
+1919-1: agitation
+1920-1: excitation
+1921-1: trouble
+1922-1: agiter
+1925-1: activiste
+1926-1: agitateur
+1927-1: agitateur
+1928-1: pamphlet
+1929-1: comité d'action
+1930-1: groupe d'action
+1935-1: devenir agité
+1938-1: agitateur
+1939-1: activisme
+1941-1: comité d'action
+1942-1: groupe d'action
+1943-1: agitation
+1944-1: tumulte
+1945-1: perturbation
+1946-1: excitation
+1947-1: trouble
+1948-1: tourmente
+1949-1: slogan (surtout politique)
+1950-1: touche de raccourci
+1951-1: raccourci clavier
+1952-1: d'un aigle
+1953-1: nez aquilin
+1956-1: nez aquilin
+1957-1: nid d'aigle
+1958-1: espace vital
+1959-1: jeune aigle
+1960-1: limite d'âge
+1962-1: Aquila
+1963-1: buse aigle
+1964-1: fougère aigle
+1965-1: fleur d'aigle
+1967-1: oeil d'aigle
+1968-1: agglomération
+1969-1: agglomération
+1970-1: aggloméré
+1971-1: agglomération
+1974-1: s'agglomérer
+1976-1: nez aquilin
+1977-1: nid d'aigle
+1981-1: agglutiner
+1982-1: liant
+1984-1: agglutination
+1987-1: agnat
+1988-1: agnatique
+1992-1: Agnès
+1997-1: admettre sa défaite
+1998-1: admis
+1999-1: reconnu
+-----------------------
