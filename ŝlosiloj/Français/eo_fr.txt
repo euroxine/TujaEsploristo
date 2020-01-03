@@ -1,0 +1,3055 @@
+﻿2-1: antaŭ Kristo (av. J.-C.)
+3-1: Aaron
+4-1: Abaddon (biblique, ange exterminateur de l'abîme dans l'Apocalypse de saint Jean)
+11-1: abactérien
+12-1: abactio
+14-1: peur de l'abandon
+17-1: Abbaside
+19-1: abbatiale
+20-1: abbatiale
+21-1: abbatiale
+22-1: abbaye
+23-1: abbatiale
+25-1: abbatiale
+26-1: abbatiale
+29-1: barricade d'arbres ou de branches
+30-1: abatis
+31-1: abbatiale
+34-1: abasique
+35-1: abatique
+36-1: abasie (incapacité de marcher causée par un manque de coordination musculaire)
+37-1: abcès
+38-1: abdication
+39-1: abdication
+40-1: abdication
+41-1: abdiquant
+42-1: abdicateur
+43-1: abdicable
+47-1: abdominale
+51-1: abducteur
+52-1: muscle abducteur
+53-1: enlever
+54-1: enlèvement
+55-1: rapt
+56-1: enlever
+57-1: enlèvement
+58-1: abducteur (nom de certains muscles d'abduction, abducteur du petit doigt)
+59-1: Abdul
+60-1: Abdullah
+61-1: déconcertant
+62-1: Abel’s
+63-1: abélien
+64-1: commutatif (groupe)
+65-2: lié aux abeilles
+66-1: colonie d'abeilles
+68-1: test d'Abel
+69-1: Ophrys abeille
+70-1: orchidée abeille
+71-1: Abélard
+72-1: essaim d'abeilles
+73-1: apiculture
+74-1: apiculteur
+75-1: apiculture
+76-1: ruche
+77-1: cellule d'abeille
+78-1: rucher
+80-1: apicole
+84-1: ruche (style boîte)
+85-1: colonie d'abeilles
+86-1: ruche (en osier)
+87-1: apiculture
+88-1: apiculteur
+89-1: apiculteur
+90-1: apiculture
+97-1: d'une ruche
+100-1: en forme de ruche
+101-1: cire d'abeille
+102-1: de cire d'abeille
+103-1: bougie à la cire d'abeille
+104-1: cire d’abeille
+105-1: poison d'abeille
+106-1: aberrant
+107-1: déviant
+108-1: s'écarter
+112-1: Milford Haven
+113-1: Aberdonien
+114-1: Aberdeen
+115-1: Aberdour
+116-1: Aberfeldy
+117-1: Aberfoyle
+118-1: Abergavenny
+119-1: Fishguard
+120-1: aberrer
+121-1: Barmouth
+122-1: Swansea
+123-1: Abbeville
+124-1: Abkhaze
+125-1: Abkhazie
+126-1: abkhaze
+127-1: Abkhazie
+128-1: en sapin
+129-1: forêt de sapins
+130-1: bois de sapin
+131-1: forêt de sapins
+132-1: bois de sapin
+133-1: Abida
+134-1: abhidhamma
+135-1: forêt de sapins
+136-1: bois de sapin
+137-1: acide abiétique (C₁₉H₂₉COOH)
+138-1: abiétine (🍁)
+139-1: épinette (🍁)
+140-1: sapin
+141-1: pomme de pin
+142-1: pomme de pin
+143-1: Abimaël
+144-1: Abimélech
+145-1: Abington
+148-1: forêt de sapins
+149-1: bois de sapin
+150-1: pomme de pin
+151-1: abiogenèse
+152-1: pomme de pin
+153-1: Épinette de Norvège (🍁)
+154-1: aiguille de sapin
+155-1: abiotique
+156-1: abiotrophie
+157-1: abiosis
+158-1: Épinette de Norvège (🍁)
+159-1: aiguille de sapin
+160-1: Abishag
+161-1: Abyssin
+162-1: éthiopien
+163-1: Abyssinie
+164-1: Ethiopie
+165-1: Abyssin
+166-1: éthiopien
+167-1: Abyssinie
+168-1: Ethiopie
+170-1: en abîme
+171-1: abîme
+177-1: baccalauréat
+178-2: lié à l'obtention du diplôme d'études secondaires
+179-1: baccalauréat
+182-1: examen du baccalauréat
+183-1: diplômée du baccalauréat
+186-1: abjuration
+189-1: abjuration
+190-1: ablatif
+191-1: âge de l'ablation
+192-1: ablater
+194-1: ablactation
+195-1: ablactation
+196-1: ablactation
+197-1: sevrer
+198-1: ablatif
+200-1: ablaut
+201-1: apophonie
+202-1: capablepharia (⚕)
+204-1: ablution
+206-1: abnégateur
+207-1: renoncer
+208-1: se nier
+212-1: Abner
+213-1: anormal
+214-1: anomalie
+215-1: anormalement
+216-1: anomalie
+217-1: livre de ABC
+224-1: débutant
+226-1: abolisseur
+227-1: abolisable
+232-1: abolitionnisme
+233-1: abolitionniste
+234-1: abolition
+235-1: abrogation
+236-1: abolitionnisme
+237-1: abolitionniste
+238-1: abolitionnisme
+239-1: abolitionniste
+240-1: abolition
+241-1: abrogation
+242-1: présure-estomac
+243-1: bombe atomique
+244-1: bombe atomique
+245-1: bombe A.
+255-1: à éviter
+256-1: abhorrer
+257-1: aversion
+257-1: répulsion
+257-1: horreur
+258-1: abomination
+261-1: abominateur
+262-1: abominablement
+263-1: abomination
+264-1: forte aversion
+269-1: abominable
+270-1: abominablement
+271-1: dégoûter
+272-1: dissuader
+273-1: repousser
+281-1: horreur
+282-1: abomination
+283-1: atrocité
+284-1: horreur
+285-1: abominablement
+286-1: abominable
+287-1: abominable personne
+293-1: méchant
+294-1: fripouille
+295-1: abonnement
+296-1: transaction d'abonnement
+297-1: base d'abonnement
+298-1: abonné
+299-1: abonnés
+300-1: carte d'abonnement
+301-1: abonnement
+302-1: par abonnement
+303-1: avec abonnement
+304-1: disponible sur abonnement
+305-1: bureau d'abonnement
+306-1: flux (RSS, par exemple)
+307-1: lecteur RSS
+308-1: lecteur de flux
+309-1: flux RSS
+310-1: fil d'actualité
+311-1: groupe d'abonnement
+316-1: dossiers abonnés
+317-1: carrte d'abonnement
+318-1: abonnement
+319-1: prix de l'abonnement
+321-1: abonnement RSS
+322-1: abonnement serveur
+323-1: paiement d'abonnement
+324-1: prix de l'abonnement
+325-1: lié à l'abonnement
+326-1: abonnement
+327-1: contenu souscrit
+328-1: syndiquer
+329-1: fil RSS syndiqué
+330-1: syndication
+331-1: aboral
+333-1: autochtone
+336-1: avorté
+340-1: avortement
+341-1: enclins à avorter
+345-1: abortif
+350-1: outil d'avortement
+351-1: avorteur
+352-1: avortement
+353-1: interruption de grossesse
+354-1: fausse couche ou mort-né
+355-1: foetus avorté
+359-1: abortif
+360-1: enfant avorté
+361-1: abrasif
+362-1: substance abrasive
+363-1: abraser
+364-1: abrasion
+365-1: abrahamique
+366-1: Abrahamitique
+369-1: abrachius
+370-1: Abraham
+371-1: Abraham
+372-1: abrasif
+374-1: s'effondrer
+375-1: abrasif
+377-1: abréviation
+378-1: relatif aux abricots
+379-1: abricotier
+380-1: eau de vie d'abricot
+381-1: fleur d'abricot
+382-1: feuille d'abricot
+385-1: abrogatif
+386-1: abrogateur
+387-1: abroger
+388-1: abrogation
+389-1: abroger
+390-1: abrogation
+392-1: Abruzzes (région d'Italie)
+394-1: quelque chose d'abrupt
+395-1: une chose abrupte
+396-1: brusquement
+400-1: hâte
+401-1: brusquerie
+402-1: personne abrupte
+403-1: Abruzzes (région en Italie)
+404-1: Abruzzes (région d'Italie)
+405-1: Absalom, Absalon ou Avshalom
+406-1: écoulement de pus
+407-1: abcès
+408-1: se former en abcès
+410-1: axe des abscisses
+411-1: axe des x
+414-1: descendre en rappel
+415-1: absidal
+419-1: absinthique
+420-1: absinthinien
+421-1: sobre
+423-1: liqueur d'absinthe
+425-1: absinthisme
+426-1: absinthe
+432-1: adresse absolue
+433-1: hauteur au dessus du niveau de la mer
+434-1: hauteur absolue
+435-1: référence de cellule absolue
+436-1: chemin absolu
+437-1: chemin complet
+438-1: extremum absolu
+439-1: erreur absolue
+440-1: humidité absolue
+441-1: codage absolu
+442-1: lien absolu
+443-1: monopole absolu
+444-1: perméabilité absolue
+445-1: solfège (absolu)
+446-1: hauteur absolue
+447-1: URL absolue
+450-1: chemin absolu
+451-1: absolument
+452-1: distribution absolument continue
+454-1: pas du tout
+455-1: en aucun cas
+456-1: tout sauf
+457-1: Absolument pas!
+458-1: absolu
+459-1: absolutiser
+460-1: absolutiste
+462-1: absolutiste
+463-1: un absolu
+464-1: absolutoire
+465-1: absous
+466-1: absoudre
+467-1: absous, absoute 
+468-1: graciable
+474-1: absorbant (pour l’attention de la personne)
+479-1: absorbant
+480-1: pensées absorbantes
+481-1: absorbant
+484-1: être absorbé par son travail
+485-1: perplexité
+486-1: immersion
+487-1: préoccupation
+488-1: absorbant
+489-1: absorbé dans
+490-1: perplexité
+491-1: immersion
+492-1: préoccupation
+493-1: absorption
+494-1: spectre d'absorption
+495-1: sobre
+496-1: abstème
+497-1: abstinence (totale)
+498-1: abstinent
+499-1: sobre
+501-1: abstinent
+503-1: abstinence
+504-1: sobre
+505-1: sobriété
+506-1: volonté de s'abstenir
+511-1: abstinent
+514-1: abstention
+515-1: abstinent (des plaisirs)
+517-1: type de données abstrait
+518-1: machine abstraite
+519-1: machine abstraite
+520-1: arbre de syntaxe abstraite
+521-1: syntaxe abstraite
+522-1: abstraction
+524-1: pensées abstraites
+525-1: abstraitement
+528-1: rendre abstrait
+529-1: abstraitisme
+530-1: résumé (anglicisme)
+532-1: absurdité
+533-1: non-sens
+534-1: fadaise
+535-1: absurdement
+536-1: absurdité
+537-1: absurdité
+538-1: Abou Dabi
+539-1: Abou Dabi
+540-1: Abuja
+542-1: manque de volonté
+551-1: abondamment
+553-1: surabondant
+554-1: très abondamment
+555-1: être super abondant
+556-1: aubaine
+557-1: corne d'abondance
+558-1: surabondance
+559-1: excès
+565-1: abutilon (🍁 genre de conifères à feuilles larges)
+568-1: abvolt (abV = 10⁻⁸ volts) 
+569-1: -aĉ- (péjoratif)
+570-1: moche
+571-1: pourri
+572-1: qualité médiocre
+573-1: piteux
+574-1: misérable
+575-1: pas bon
+576-1: chose dégoûtante
+580-1: misérablement
+581-1: médiocrement
+582-1: Achinais
+583-1: acéphale
+584-1: acéphale
+585-1: organisme acéphale
+586-1: acéphales
+587-1: acénaphtène (C₁₂H₁₀)
+589-1: d'un érable
+597-1: âcrement
+598-1: amèrement
+599-1: cruellement
+600-1: acerbité
+601-1: rendre acerbe
+602-1: aciduler
+603-1: branche d'érable
+605-1: platane commun, platane à feuilles d'érable
+608-1: sirop d'érable
+609-1: sucre d'érable
+610-1: acétique
+611-1: acétabulum (⚕)
+612-1: acétabulaire (⚕)
+613-1: acétabulum (⚕)
+614-1: acide acétique (CH₃COOH)
+615-1: acheter
+616-1: continuer à acheter
+618-1: acquisition
+619-1: achat
+620-1: emplette
+621-1: course
+624-1: acquérir
+625-1: acheter
+627-1: acétaldéhyde, éthanal (CH₃CHO)
+628-1: marché
+630-1: acheteuse
+635-1: acide acétique (CH₃COOH)
+636-1: acétaldéhyde, éthanal (CH₃CHO)
+637-1: anhydride acétique, anhydride éthanoïque (C₄H₆O₃)
+638-1: acétyler
+640-1: acétobactérie
+641-1: acétobactéries, bactéries de l'acide acétique
+645-1: boutique
+646-1: magasin
+647-1: intérêt (à un achat)
+652-1: achat en vente publique
+653-1: acétobactéries, bactéries de l'acide acétique
+654-1: transformer en vinaigre
+655-1: être acheter
+656-1: acétification
+657-1: acétifiant
+658-1: acétyle- (COCH₃)
+659-1: acétyle (COCH₃)
+661-1: acétyler
+662-1: acétyler
+663-1: acétylcholine (C₇NH₁₆O₂⁺)
+665-1: acide acétylsalicylique (C₉H₈O₄) 
+666-1: acide acétylsalicylique (C₉H₈O₄) 
+667-1: acétylsalicylate
+668-1: acide acétylsalicylique (C₉H₈O₄) 
+669-1: aspirine
+670-1: acide acétylsalicylique (C₉H₈O₄)
+671-1: aspirine
+672-1: acheteur
+676-1: panier
+677-1: liste de courses
+684-1: acétomètre
+685-1: acétimètre
+686-1: acétonique
+687-1: acétonémie
+688-1: acétonyle
+690-1: acétonurie (acétone en excès dans l'urine)
+691-1: pouvoir d'achat
+693-1: panier d'achat
+694-1: sac d'achat
+695-1: coût
+696-1: coût d'achat
+699-1: faire des courses
+700-1: l'ère acheuléenne de la préhistoire
+701-1: être affreux
+702-1: pourri
+703-1: terrible
+709-1: choucroute
+710-1: acide morello (kriek)
+711-1: indice d'acide
+713-1: bicarbonate de sodium (NaHCO₃)
+715-1: bisulfate de sodium (NaHSO₄)
+716-1: aigre-doux
+717-1: acide
+718-1: bain d'acide
+719-1: aigre
+720-1: aigrement
+721-1: acidité
+722-1: sur
+723-1: acide
+724-1: acidulé
+725-1: aciduler, rendre aigre
+726-1: acidulation
+727-1: acidité
+728-1: être acide
+729-1: être aigre
+730-1: acidifiable
+731-1: acidifier
+733-1: acidifier
+735-1: devenir acidifié
+736-1: acidifier du lait (coagulation du lait, lait caillé)
+737-1: acidification
+738-1: acidification
+739-1: acidimétrie
+740-1: acidomètre
+741-1: résistant aux acides
+742-1: aciduler
+743-1: crème aigre, crème sure
+744-1: acidimétrie
+745-1: brûler à l'acide
+746-1: indice d'acide
+749-1: formation d'acide
+750-1: acidimétrie
+751-1: acidimètre
+752-1: acidotique
+753-1: acidose
+754-1: pluies acides
+756-1: résistant aux acides
+757-1: résistant aux acides
+758-1: sauerbraten (rôti sauce aigre-douce)
+759-1: sel d'acide
+760-1: bonbon acidulé
+761-1: réservoir d'acide
+762-1: faire mal
+763-1: empirer
+764-1: devenir mauvais
+765-1: devenir terrible
+766-1: s'aggraver
+767-1: acyclique
+769-1: acinose (⚕)
+770-1: acineux (⚕)
+771-1: aciniforme (⚕)
+772-1: acinus (⚕)
+773-1: aciniforme (⚕)
+775-1: acinose (⚕)
+776-1: acineux (⚕)
+777-1: aciniforme (⚕)
+781-1: Acis (personnage mythologique)
+782-1: malodorant
+783-1: nauséabond
+784-1: puant
+785-1: malodorante
+786-1: les Açores
+787-1: Objets de données ActiveX
+788-1: composant ActiveX
+789-1: objet ActiveX
+790-1: contrôle ActiveX
+791-1: atout
+792-1: misérable (personne méprisable)
+793-1: -ad- (dénote la continuation ou la répétition constante d'une action)
+794-1: continu
+795-1: Ada
+796-1: adagio
+798-1: adagietto
+800-1: Adalbert
+801-1: Adalbert
+802-1: adamique
+804-1: émail
+805-1: damassé
+806-1: adamite
+808-1: pomme d’Adam
+809-1: pomme d’Adam
+810-1: ocre rouge
+811-1: adaptatif
+812-1: adaptation
+813-1: adaptation
+814-1: adaptable
+815-1: adaptabilité
+825-1: ajuster à la fenêtre
+826-1: ajuster au cadre
+827-1: ajuster à la taille
+828-1: orchestrer
+830-1: format adaptatif
+831-1: adaptable
+832-1: adaptable
+833-1: adaptabilité
+836-1: compromis
+837-1: adaptation
+838-1: ajustement
+839-1: cadre de l'adaptateur
+840-1: carte adaptateur
+843-1: adaptateur LAN
+844-1: pilote d'adaptateur
+845-1: adaptateur
+846-1: adapté
+847-1: adaptation
+848-1: adaptation
+849-1: ajustement
+850-1: adaptation des polices à l'espace
+851-1: adaptation des polices à l'espace
+852-1: orchestration
+853-1: adaptométrie
+854-1: Adar
+855-1: rime (en utilisant des suffixes) 
+856-1: rime non qualifiée utilisant des suffixes (comme –ad-)
+857-1: Adbéel
+858-1: continuellement
+859-1: en continu
+860-1: à plusieurs reprises
+861-1: souvent
+862-1: Akademio de Esperanto
+866-1: de manière appropriée
+867-1: convenablement
+868-1: adéquatement
+869-1: adéquation
+870-1: Adélaïde
+871-1: Adélaïde
+872-1: Terre Adélie
+873-1: Adèle
+874-1: Aethelstan
+875-1: adéno- (du grec ancien ἀδήν, adên (gland))
+876-1: Aden
+877-1: golfe d'Aden
+878-1: adénoïdal (⚕)
+879-1: adénectomie (⚕)
+881-1: adénite (⚕)
+882-1: glande
+883-1: adéno- (du grec ancien ἀδήν, adên (gland))
+884-1: Aden
+885-1: adénoïdal (⚕)
+886-1: adénoïdes (⚕)
+887-1: adénoïdisme (⚕)
+888-1: adénoïdite (⚕)
+889-1: adénoïde (⚕)
+890-1: adénoïdes (⚕)
+891-1: adénocarcinome (⚕)
+892-1: adénome (⚕)
+893-1: adénopathie (⚕)
+894-1: adénoviral (⚕)
+895-1: adénovirus (⚕)
+896-1: adénozyle
+897-1: adénosine (C₁₀H₁₃N₅O₄)
+898-1: adénopathie (⚕)
+899-1: s'adapter
+917-1: adhérence
+918-1: adhésivité
+919-1: adhésif
+920-1: adhésivité
+921-1: adhésif
+924-1: adhésif
+927-1: adhérer
+928-1: adhérence
+929-1: adhérer
+930-1: garder
+931-1: continuer
+932-1: adiabatique
+933-1: condition adiabatique
+939-1: au revoir
+940-1: adieu
+941-1: banquet d'adieu
+942-1: discours d'adieu
+944-1: mot d'au revoir
+946-1: en train de se quitter
+947-1: comme adieu
+948-1: en train de se séparer
+954-1: embrasser au revoir
+955-1: adieu
+956-1: au revoir
+957-1: déconnexion
+958-1: ajouter
+959-1: additif
+960-1: groupe additif
+962-1: additif
+963-1: opérateur d'addition
+966-1: additionneur
+967-1: machine à additionner
+968-1: machine à additionner
+970-1: Adyghé
+971-1: Adige (fleuve)
+972-1: adynamique
+973-1: adipeux
+974-1: adiposité
+976-1: graisse 
+978-1: adipocyte
+979-1: cellule adipeuse
+980-1: adipocire (gras de cadavre)
+981-1: adipogenèse
+982-1: adipeux
+983-1: adipeux
+984-1: Addis Abeba
+985-1: Addis Abeba
+986-1: addisonien (⚕)
+987-1: maladie d’Addison
+988-1: Addison
+989-1: adyton
+990-1: adjectival
+991-1: transformer en adjectif
+994-1: adjonction
+995-1: adverbial
+998-1: par appel d'offres
+1004-1: adjonction
+1008-1: adjuration
+1009-1: adjudication
+1012-1: Adama
+1013-1: adminiculum (⚕)
+1014-1: administratif
+1015-1: administratif
+1016-1: back-end
+1017-1: configuration administrative
+1018-1: machine de gouvernement
+1019-1: vulnérabilité administrative
+1020-1: file d'attente d'administration
+1021-1: groupe de gestion
+1022-1: outils administratifs
+1023-1: interface back-end
+1024-1: année financière
+1025-1: console de gestion
+1026-1: informations d'identification administratives
+1027-1: intendance
+1028-1: mode de gestion
+1029-1: système de gestion
+1030-1: administratif
+1031-1: administrativement
+1032-1: administration
+1035-1: gestion
+1036-1: administratif
+1037-1: système d'information de gestion
+1038-1: administration
+1039-1: gouvernance
+1040-1: gestion
+1042-1: gestion des congés
+1043-1: gestion des licences
+1044-1: gestion des droits
+1045-1: gestion de la terminologie
+1046-1: administration des utilisateurs
+1047-1: frais administratifs
+1051-1: administrateur
+1052-1: gérant
+1053-1: administrateur réseau
+1054-1: administration
+1055-1: personnel administratif
+1056-1: administrateur
+1057-1: gérant
+1058-1: administrativement
+1064-1: outil de gestion
+1065-1: gestionnaire de source
+1066-1: gestionnaire de modèles
+1067-1: gestionnaire d'utilisateurs
+1068-1: centre d'appareils
+1069-1: gestionnaire de licence
+1070-1: administration
+1071-1: gestion
+1072-1: administratrice
+1073-1: administrateur
+1074-1: administration
+1075-1: gestion
+1077-1: admirer
+1078-1: admiration
+1079-1: admiration
+1080-1: d'un amiral
+1081-1: d'une amirauté
+1082-1: amirauté
+1083-1: amirement
+1084-1: épouse de l’amiral
+1085-1: amirauté
+1088-1: navire amiral
+1089-1: îles de l'amirauté
+1090-1: admiratrice
+1091-1: admirateur
+1092-1: admiratif
+1093-1: impressionnant
+1096-1: admirablement
+1100-1: admonitoire
+1101-1: avertisseur
+1109-1: lettre de relance
+1110-1: lettre de recouvrement (dette)
+1113-1: adobe
+1115-1: adolescent
+1116-1: adolescence
+1118-1: adolescente
+1119-1: adolescent
+1120-1: adolescence
+1121-1: puberté
+1122-1: être adolescent
+1124-1: adolescente
+1134-1: adonis d'automne (🍁)
+1135-1: Adonis
+1136-1: Apollon (astéroïde)
+1137-1: Adonis
+1138-1: adoptif
+1139-1: adoption
+1140-1: parents adoptifs
+1141-1: adoptant
+1142-1: adopté
+1143-1: par adoption
+1144-1: adoptable
+1146-1: parent adoptif
+1147-1: adopté
+1148-1: adoptif
+1149-1: adopté
+1150-1: enfant adoptif
+1151-1: adoption
+1152-1: enfant adoptif
+1153-1: adorant
+1154-1: adorer
+1156-1: adoration
+1157-1: culte
+1161-1: adoratrice
+1162-1: adorateur
+1164-1: adorée
+1165-1: adoré
+1166-1: centre de culte
+1167-1: lieu de culte
+1171-1: adorable
+1172-1: adorablement
+1173-1: caractère adorable
+1176-1: adoration
+1177-1: culte
+1178-1: culte
+1180-1: glande surrénale
+1182-1: adressage
+1183-1: mode d'adressage
+1184-1: adressage
+1187-1: machine à adresser
+1188-1: adressographe
+1189-1: liste de diffusion
+1196-1: attribution d'adresse
+1197-1: barre d'adresse
+1198-1: bus d'adresse
+1199-1: adressable
+1200-1: étiquette d'adresse
+1201-1: mappage d'adresses
+1202-1: pool d'adresses
+1205-1: adressage
+1206-1: machine à adresser
+1207-1: machine à adresser
+1208-1: pointeur d'adresse
+1209-1: machine à adresser
+1210-1: adresseur
+1211-1: expéditeur
+1212-1: adressé
+1213-1: destinataire
+1214-1: personne adressée
+1215-1: champ d'adresse
+1216-1: note d'expédition
+1217-1: répertoire
+1217-1: carnet d'adresses
+1218-1: machine à adresser
+1219-1: technique d'adressage
+1220-1: pointeur
+1221-1: compteur d'emplacement
+1223-1: adresse du serveur
+1224-1: adresse de facturation
+1225-1: bus d'adresse
+1226-1: espace d'adressage
+1227-1: champ d'adresse
+1228-1: machine à adresser
+1229-1: niveau d'indirection
+1230-1: registre d'adresses
+1231-1: changement d'adresse
+1232-1: espace d'adressage
+1233-1: adressage indirect
+1234-1: traduction d'adresse
+1235-1: résolveur
+1236-1: destinataire
+1237-1: champ d'adresse
+1238-1: Adriatique
+1239-1: mer Adriatique
+1241-1: Andrinople
+1242-1: Adriatique
+1243-1: Adriatique
+1244-1: mer Adriatique
+1247-1: adsorbant
+1248-1: adsorption
+1249-1: adsorption
+1250-1: adsorbat
+1251-1: adsorbant
+1252-1: adsorption
+1254-1: adsorbant
+1255-1: en adsorbant
+1256-1: adsorber
+1257-1: adsorption
+1258-1: adsorbant
+1265-1: astringent
+1266-1: astringemment
+1267-1: durement
+1268-1: acerbe
+1269-1: faire sécher
+1270-1: astringent
+1271-1: adducteur
+1272-1: muscle adducteur
+1273-1: adducter
+1274-1: adduction
+1275-1: adducter
+1276-1: adducteur
+1277-1: adducteur
+1278-1: adducteur
+1279-1: adulation
+1280-1: adulation
+1281-1: Odollamite
+1282-1: adulateur
+1283-1: adulation
+1284-2: adulaire (hécatolite, pierre de lune)
+1285-1: adulatoire
+1286-1: aduler
+1289-1: adulte
+1290-1: adultère
+1291-1: adultère
+1293-1: adultère
+1294-1: adultérer
+1295-1: falsifier
+1296-1: détériorer
+1297-1: adultère
+1298-1: adultération
+1301-1: adultère
+1302-1: femme adultère
+1303-1: adultère
+1305-1: adultère
+1307-1: advowson (patronage)
+1308-1: advection
+1309-1: Adventiste
+1310-1: adventice
+1311-1: adventitiel
+1313-1: Adventisme
+1315-1: adventiste (confession religieuse)
+1316-1: adventif
+1317-1: adventif
+1319-1: l'Avent
+1320-1: adverbial
+1321-1: adverbialement
+1322-1: adverbialité
+1323-1: adverbialiser
+1326-1: défavorablement
+1327-1: adversaire
+1328-1: antagoniste
+1330-1: d'un avocat
+1332-1: la profession d'avocat
+1333-1: mauvais avocat
+1334-1: avocat immoral
+1335-1: plaidoyer
+1336-1: advocation
+1337-1: cabinet d'avocats
+1338-1: défendre
+1339-1: être accepté au barreau
+1348-1: aoidos
+1352-1: défense aérienne
+1353-1: résistance à l'air
+1354-1: masse d'air
+1355-1: force aérienne
+1356-1: base aérienne
+1358-1: raid aérien
+1359-1: frappe aérienne
+1360-1: bain d'air
+1361-1: bataille aérienne
+1362-1: base aérienne
+1363-1: besoin d'air
+1364-1: besoin d'air
+1365-1: ventilateur
+1366-1: courant d'air
+1367-1: rafale d'air
+1368-1: hydroglisseur
+1369-1: frein à air
+1370-1: à l'aérographe
+1371-1: aérographe
+1372-1: airbus
+1373-1: circulation de l'air
+1374-1: défense aérienne
+1375-1: anti-aérien
+1376-1: artillerie anti aérienne
+1377-1: canon anti-aérien
+1378-1: défense aérienne
+1379-1: défenses anti-aériennes
+1381-1: conduit d'air
+1382-1: par voie aérienne
+1383-1: aéré
+1384-1: par les airs
+1385-1: refroidi par air
+1386-1: aéré
+1387-1: sortie d'air
+1388-1: dégagement d'air
+1389-1: purge
+1390-1: valve de purge
+1391-1: embolie gazeuse
+1392-1: entrée d'air
+1393-1: escadron aérien
+1394-1: poche d'air (aviation)
+1395-1: filtre à air
+1396-1: flotte aérienne
+1397-1: débit d'air
+1398-1: vue aérienne
+1399-1: photographie aérienne
+1400-1: carte aérienne
+1401-1: assainisseur d'air
+1402-1: carabine à air comprimé
+1403-1: régulateur d'air
+1404-1: aérodrome
+1405-1: aéroport
+1406-1: aérodrome
+1407-1: hélice
+1408-1: aérer
+1409-1: hermétique
+1410-1: anaérobie
+1411-1: chambre à air
+1413-1: poche d'air
+1414-1: à roulement à air (comme broche à roulement à air)
+1415-1: vanne d'air
+1416-1: bouches d'aération
+1417-1: climatiser
+1418-1: climatisé
+1420-1: compresseur d'air
+1421-1: climatiseur
+1423-1: corridor aérien
+1424-1: voie aérienne
+1425-1: coussin d'air
+1426-1: compagnie aérienne
+1427-1: pilote de ligne
+1428-1: compagnie aérienne
+1429-1: voies respiratoires
+1430-1: matelas pneumatique
+1431-1: pollution de l'air
+1432-1: mal de l'air
+1433-1: le mal de l'air
+1434-1: carte aérienne
+1435-1: masse d'air
+1436-1: matelas pneumatique
+1437-1: ingénieur de vol
+1438-1: mécanicien de vol
+1439-1: aéronautique
+1440-1: aviation
+1441-1: intolérant à l'air
+1442-1: intolérant à l'air
+1444-1: acrobatique
+1445-1: acrobatiquement
+1446-1: voltige
+1449-1: aérobie
+1450-1: voltige
+1451-1: aérobe
+1452-1: aérobium
+1453-1: aérobiologie
+1454-1: airbus
+1455-1: aérocyste
+1456-1: cellule d'air
+1457-1: défense aérienne
+1458-1: aérodynamique
+1459-1: fuselé
+1460-1: aérodynamiquement
+1461-1: aérodynamique
+1462-1: aérodyne
+1466-1: aérophagie
+1467-1: aérophysique
+1469-1: aérophobie
+1470-1: aérophore
+1471-1: vue aérienne
+1472-1: levé topographique aérien
+1473-1: fuselage
+1474-1: ayant la propriété de glisser en l'air
+1475-1: aérographie
+1476-1: aérogramme
+1477-1: lettre aérienne
+1478-1: aéroport
+1479-1: conduit d'air
+1480-1: aérolitique
+1484-1: aérolithologie
+1485-1: aérologique
+1487-1: aérologue
+1488-1: aérologie
+1489-1: aérologue
+1490-1: aéromancie
+1491-1: austromancie
+1492-1: aérométrique
+1493-1: aérométrie
+1495-1: aéronautique
+1497-1: aéronautique
+1499-1: aéronautique
+1503-1: navigation aérienne
+1504-1: sarbacane
+1505-1: Aréopage
+1508-1: aérifère
+1509-1: poste aérienne
+1511-1: pression atmosphérique
+1512-1: pompe à air
+1513-1: aéroscope
+1515-1: espace aérien
+1516-1: aérostatique
+1517-1: aérostatique
+1520-1: aérothérapeutique
+1521-1: pistolet à air
+1522-1: paysage aérien
+1523-1: vue aérienne
+1524-1: aérographe
+1525-1: ballon (jouet)
+1527-1: carabine à air comprimé
+1528-1: avion
+1529-1: pollution de l'air
+1530-1: pompe à air
+1531-1: pont aérien
+1532-1: transport aérien
+1533-1: transport aérien
+1534-1: transporter par avion
+1535-1: lettre aérienne
+1536-1: aérogramme
+1537-1: par avion
+1538-1: timbre poste aérienne
+1539-1: poste aérienne
+1540-1: pression atmosphérique
+1541-1: frein à air
+1543-1: alimentation en air
+1544-1: pompe à air
+1545-1: puits d'air
+1546-1: vitesse
+1547-1: suprématie aérienne
+1548-1: régulateur d'air
+1549-1: airbag
+1550-1: puits d'air
+1551-1: fret aérien
+1553-1: aviateur
+1554-1: espace aérien
+1555-1: hôtesse de l'air
+1557-1: agent de bord
+1558-1: steward
+1562-1: taxi aérien
+1563-1: traîne (en aviation)
+1564-1: anaérobie
+1565-1: anaérobie
+1566-1: transport aérien
+1568-1: poche d'air
+1569-1: chambre à air
+1570-1: tube
+1571-1: cartouche d'air
+1572-1: aéré
+1573-1: grille d'air
+1574-1: aération
+1579-1: aérateur
+1580-1: vanne d'air
+1581-1: aéronautique
+1582-1: aviation
+1583-1: transport aérien
+1584-1: aéronaute
+1585-1: dirigeable
+1587-1: bulle d'air
+1588-1: vessie natatoire
+1589-1: vue aérienne
+1590-1: aérobie
+1591-1: voies respiratoires
+1599-1: courtoisie
+1600-1: gentiment
+1601-1: affablement
+1602-1: affabilité
+1603-1: gentillesse
+1604-1: convivialité
+1605-1: le plus charmant
+1606-1: d'une manière très amicale
+1607-1: ergonomique
+1608-1: conception ergonomique
+1609-1: conception ergonomique
+1610-1: ergonomie
+1611-1: personne affable
+1612-1: aphagie
+1613-1: aphaniptère (le groupe d'insectes qui inclut la puce)
+1614-1: Afar (Éthiopie)
+1615-1: aphasique
+1617-1: aphasique
+1620-1: émotionnellement
+1621-1: sentimentalement
+1624-1: affecté
+1625-1: effroyablement
+1633-1: affectation
+1637-1: clairement
+1638-1: visiblement
+1639-1: manifestement
+1640-1: fade
+1641-1: terne
+1642-1: affection
+1647-1: visiblement
+1653-1: affecté (attitude)
+1657-1: femme émotive
+1663-1: professionnel
+1665-1: afférent
+1666-1: petite chose
+1667-1: petite matière
+1668-1: aphérèse
+1671-1: pertinence
+1672-1: agenda
+1681-1: question de goût
+1682-1: courrier d'affaires
+1683-1: chargé d’affaires
+1685-1: homme d'affaires
+1686-1: voyage d'affaires
+1687-1: afghan
+1688-1: Chien afghan
+1689-1: femme afghane
+1690-1: femme afghane
+1691-1: Afghanistan
+1692-1: Afghan
+1693-1: Afghanistan
+1694-1: afghani
+1695-1: afghan
+1696-1: Afghanistan
+1697-1: Chien afghan
+1698-1: affidavit (déclaration sous serment)
+1699-1: puceron
+1704-1: aphidivores
+1705-1: affixal
+1706-1: attacher
+1707-1: à mettre en place
+1712-1: géométrie affine
+1716-1: espace affine
+1718-1: variété affine
+1720-1: affiner (métal)
+1721-1: raffinage (métallurgie)
+1723-1: avoir des affinités
+1724-1: affinité
+1725-1: tableau d'affichage
+1726-1: porte-enseigne
+1727-1: porte-plaque
+1728-1: porte-affiches
+1732-1: poster un message
+1733-1: afficheur
+1734-1: borne publicitaire (Colonne Morris)
+1735-1: puceron
+1745-1: tableau d'affichage
+1746-1: panneau d'affichage
+1748-1: aimable
+1749-1: aimablement
+1750-1: affligé
+1751-1: navré
+1754-1: affliction
+1755-1: supplice
+1756-1: épreuve
+1757-1: douloureusement
+1763-1: triste
+1765-1: aphonique
+1768-1: aphoristique
+1769-1: aphoriquement
+1771-1: aphoriste
+1772-1: afro-américain
+1773-1: afro-américain
+1774-1: machine à affranchir
+1778-1: port payé
+1779-1: estampillé
+1781-1: frais de port
+1782-1: tarifs postaux
+1783-1: Afro-asiatique
+1784-1: Afro-asiatique
+1785-1: Africain
+1786-1: Africaine
+1787-1: Africain
+1788-1: Afrikaans
+1789-1: Afrikaans
+1790-1: langue afrikaans
+1791-1: Afrikaner
+1792-1: afrikaans (langue)
+1793-1: affriquée
+1796-1: Afro-asiatique
+1797-1: africaniser
+1798-1: africanisme
+1800-1: éfrit 
+1801-1: afrit (عفريت)
+1802-1: afro-
+1803-1: d'Aphrodite
+1804-1: Aphrodite
+1805-1: Aphrodite
+1807-1: aphrodisiaque
+1808-1: aphrodisiaque
+1809-1: aphrodisiaque
+1810-1: aphrodisiaque
+1811-1: aphrodisiaque
+1812-1: aphrodisiaque
+1813-1: aphrodisiaque
+1814-1: excitation (sexuelle)
+1817-1: ulcère aphteux
+1818-1: fièvre aphteuse
+1824-1: flèche (d'un affût de canon)
+1825-1: actif
+1827-1: acerbe
+1828-1: agacé
+1829-1: désagréable
+1830-1: acerbe
+1831-1: acridieusement
+1832-1: désagréablement
+1833-1: acerbe
+1838-1: désagréable
+1839-1: devenir agacé, irrité
+1840-1: irritant
+1841-1: agir
+1842-1: se produire
+1843-1: se dérouler
+1844-1: action
+1845-1: activité
+1846-1: Agag
+1848-1: Agamedes (mythologie)
+1849-1: Agamemnon
+1850-1: Agamemnon
+1851-1: agamique (biologie)
+1852-1: héron agami
+1853-1: onoré agami
+1854-1: lézard agamide
+1855-1: agent
+1856-1: aga
+1857-1: agapanthe (🍁)
+1862-1: agaricacées (🍁)
+1863-1: agaricoïde (🍁)
+1866-1: Adjarie
+1867-1: agar (-agar)
+1868-1: agate
+1870-1: agatiser
+1872-1: Agathocle
+1873-1: agave
+1874-1: tequila
+1877-1: vin d'agave
+1879-1: opératoire
+1880-1: rivière Again
+1882-1: activement
+1883-1: activité
+1889-1: Agénor
+1890-1: agentiel
+1891-1: entremise
+1895-1: agence commerciale
+1896-1: Ageratum conyzoides
+1897-1: Agésilas
+1903-1: agir selon
+1907-1: agir sous l'influence de
+1908-1: actionner
+1909-1: Agincourt
+1915-1: agiotage
+1916-1: mocassin (serpent)
+1917-1: agitation
+1918-1: incendiaire
+1919-1: agitation
+1920-1: excitation
+1921-1: trouble
+1922-1: agiter
+1925-1: activiste
+1926-1: agitateur
+1927-1: agitateur
+1928-1: pamphlet
+1929-1: comité d'action
+1930-1: groupe d'action
+1935-1: devenir agité
+1938-1: agitateur
+1939-1: activisme
+1941-1: comité d'action
+1942-1: groupe d'action
+1943-1: agitation
+1944-1: tumulte
+1945-1: perturbation
+1946-1: excitation
+1947-1: trouble
+1948-1: tourmente
+1949-1: slogan (surtout politique)
+1950-1: touche de raccourci
+1951-1: raccourci clavier
+1952-1: d'un aigle
+1953-1: nez aquilin
+1956-1: nez aquilin
+1957-1: nid d'aigle
+1958-1: espace vital
+1959-1: jeune aigle
+1960-1: limite d'âge
+1962-1: Aquila
+1963-1: buse aigle
+1964-1: fougère-aigle (🍁)
+1965-1: fleur d'aigle
+1967-1: oeil d'aigle
+1968-1: agglomération
+1969-1: agglomération
+1970-1: aggloméré
+1971-1: agglomération
+1974-1: s'agglomérer
+1976-1: nez aquilin
+1977-1: nid d'aigle
+1981-1: agglutiner
+1982-1: liant
+1984-1: agglutination
+1987-1: agnat
+1988-1: agnatique
+1992-1: Agnès
+1997-1: admettre sa défaite
+1998-1: admis
+1999-1: reconnu
+2004-1: agnostique
+2006-1: agnosie
+2007-1: Agnus Dei
+2012-1: barre d'action
+2013-1: bouton d'action
+2014-1: accent (musique)
+2015-1: limite d'âge
+2016-1: agonie
+2022-1: agonostics
+2023-1: page d'action
+2025-1: barre d'option
+2026-1: fichier de configuration
+2028-1: temps d'installation
+2029-1: gestionnaire de paramètres
+2030-1: gestionnaire de paramètres
+2031-1: réglage
+2032-1: configuration
+2033-1: accordeur, cheville (musique)
+2034-1: ensemble de configuration
+2035-1: profil
+2036-1: à l'unisson
+2037-1: diapason
+2044-1: facilité de gestion
+2046-1: à régler
+2047-1: panneau de commande
+2055-1: astuces du gestionnaire de fenêtres
+2056-1: informations de configuration
+2068-1: configuration du réseau
+2069-1: gestionnaire de paramètres
+2070-1: diapason
+2071-1: paramètres de l'application
+2072-1: paramètres utilisateur
+2073-1: paramètres de communication
+2074-1: déclaration d'action
+2075-1: modificateur de paramètres
+2076-1: tuyau d'accord
+2077-1: modificateur de paramètres
+2078-1: modificateur de paramètres
+2079-1: agora
+2080-1: type d'action
+2081-1: barre d'action
+2082-1: potentiel d'action
+2089-1: agréablement
+2090-1: confortablement
+2092-1: agrément
+2093-1: très agréable
+2094-1: extrêmement agréable
+2095-1: rendre agréable
+2096-1: mettre à l'aise
+2098-1: agrément
+2099-1: odeur agréable
+2100-1: fermoir
+2103-1: agraphie
+2109-1: agrammatisme
+2110-1: Agra (ville d'Inde qui abrite le Tāj Mahal)
+2111-1: agraire
+2112-1: agricole
+2114-1: agrégat
+2115-1: agrégation (universitaire)
+2116-1: agrégat
+2117-1: agrégat
+2118-1: agréger
+2119-1: agréger
+2120-1: agressif
+2121-1: agresseur
+2122-1: attaquant
+2123-1: assaillant
+2123-1: offenseur
+2124-1: agressivement
+2126-1: agressivement
+2132-1: agresseur
+2133-1: attaquant
+2134-1: assaillant
+2134-1: offenseur
+2135-1: agressif
+2137-1: agresseur
+2138-1: agricole
+2139-1: exposition agricole
+2140-1: enseignement agricole
+2141-1: école d'agriculture
+2142-1: produit agricole
+2143-1: syndicat d’agriculteurs
+2149-1: Aigremoine (🍁)
+2150-1: Agrippine
+2151-1: Agrippa
+2155-1: agrobactéries
+2156-1: agrobiologie
+2157-1: agriculture
+2158-1: agricole
+2159-1: cultivateur
+2160-1: agriculteur
+2161-1: agriculture
+2162-1: agricole
+2162-1: agronomique
+2167-1: agronome
+2172-1: nielle des blés (🍁 Agrostemma)
+2173-1: agrostis (🍁)
+2175-1: type d'action
+2176-1: agouti (Dasyprocta)
+2179-1: Achab
+2180-1: achéen
+2181-1: achéen
+2183-1: Achaïe
+2185-1: Assuérus
+2186-1: le Juif errant
+2187-1: Assuérus
+2188-1: Assuérus
+2189-1: le Juif errant
+2190-1: Achazia
+2191-1: Achaz
+2192-1: achéménien
+2193-1: Achéménès
+2194-1: Aix-la-Chapelle (Aachen)
+2195-1: Achéron
+2198-1: Achija
+2199-1: Achille
+2200-1: talon d’Achille
+2201-1: tendon d’Achille
+2202-1: talon d’Achille
+2204-1: tendon d’Achille
+2205-1: Achimélech
+2206-1: Achitophel
+2207-1: Ahmadisme (Ahmadiyya)
+2208-1: Achmed
+2209-1: Ahmed
+2210-1: Achnasheen
+2211-1: Ahura-Mazda
+2215-1: SIDA
+2220-1: Aïnou
+2224-1: -aĵ- (désigne quelque chose possédant une certaine qualité ou fabriqué à partir d'une certaine substance, viande d'un animal spécifique)
+2225-1: Aia
+2226-1: clé d'entité
+2227-1: Ajax
+2228-1: Ééa
+2229-1: Ajax
+2230-1: ayapana
+2231-1: relation d'entité
+2232-1: diagramme de relation d'entité
+2233-1: ayatollah (آیت‌الله) 
+2235-1: petite chose
+2236-1: eigen
+2241-1: espace propre (mathématiques)
+2244-1: valeur propre (mathématiques)
+2246-1: pleurer
+2247-1: crier de douleur
+2248-1: Éétès, Aiétès ou Æétès
+2249-1: Aix
+2250-1: aillé
+2251-1: bulbe d'ail
+2252-1: épicer à l'ail
+2255-1: gousse d'ail
+2256-1: bulbe d'ail
+2259-1: Amy
+2260-1: tout type de
+2261-1: que ce soit
+2262-1: arbitraire
+2265-1: caractère générique
+2266-1: arbitrairement
+2267-1: caractère générique
+2268-1: Ainsworth
+2269-1: aïnou
+2270-1: Monsieur X, Monsieur Dupont (un citoyen Lambda)
+2271-1: aïnou
+2272-1: accès aléatoire
+2273-1: entité
+2274-1: chose
+2275-1: trucs
+2276-1: choses
+2277-1: Ayr
+2278-1: bugle (🍁 plante du genre Ajuga)
+2283-1: lettres double barre, gras de tableau noir
+2288-1: Akademio
+2291-1: Achad
+2292-1: Acadien
+2293-1: Acadien
+2294-1: académique
+2296-1: académique
+2298-1: lettré
+2299-1: érudit
+2300-1: Acadien
+2301-1: Acadien
+2302-1: Acadie
+2305-1: Achaïe
+2307-1: noix de cajou
+2310-1: pomme de cajou
+2311-1: anacardier
+2312-1: Acan
+2313-1: Twi,tchi ou asante (dialecte akan parlé au Ghana)
+2314-1: académicien
+2316-1: membre de l'académie
+2318-1: brème (poisson)
+2319-1: multitâche préemptif
+2323-1: thésaurisation
+2324-1: monopole
+2327-1: akashique
+2328-1: accélératif
+2329-1: accélération
+2330-1: accélérant
+2331-1: accélérateur
+2332-1: accélérateur
+2333-1: promoteur (catalyseur)
+2334-1: accélération
+2335-1: accélérant
+2336-1: accélérateur
+2343-1: accélérer
+2344-1: reprendre
+2345-1: accélération
+2350-1: accéléromètre
+2352-1: accéléromètre
+2353-1: accélérateur (pédale)
+2354-1: pédale d'accélérateur
+2358-1: accentuation
+2359-1: emphatique
+2359-1: catégorique
+2360-1: avec insistance
+2361-1: accentuer
+2362-1: souligner
+2363-1: emphase
+2363-1: accentuation
+2368-1: accentué
+2369-1: souligné
+2370-1: insisté sur
+2375-1: perte d'accent
+2376-1: accent
+2377-1: accepté
+2378-1: continuer à accepter
+2379-1: acceptation
+2380-1: acceptation
+2381-1: accepteur
+2382-1: d'accepter
+2383-1: acceptable
+2384-1: acceptable
+2385-1: raisonnablement
+2386-1: acceptabilité
+2387-1: acceptabilité
+2388-1: recevabilité
+2390-1: réceptif
+2391-1: réceptif
+2398-1: accepter la responsabilité de
+2399-1: accepter officiellement
+2400-1: accepter solennellement
+2401-1: accueillir favorablement
+2402-1: recevoir
+2403-1: faire accepter
+2404-1: être accepté
+2405-1: devoir faire passer.
+2406-1: réception (accueil)
+2407-1: acceptable
+2408-1: acceptabilité
+2409-1: susceptibilité
+2410-1: réceptionniste
+2412-1: accepté
+2413-1: reçu
+2417-1: page d'accueil
+2419-1: accepteur
+2420-1: salle de réception
+2421-1: bulletin de versement
+2422-1: salle de réception
+2425-1: mémoire tampon d'arrière-plan (informatique)
+2426-1: sujet subsidiaire
+2427-1: nerf accessoire (nerf spinal accessoire)
+2428-1: sous‐entendu
+2429-1: accessoire
+2430-1: problème secondaire
+2431-1: auxiliaire
+2432-1: accessoires
+2433-1: compartiment de rangement
+2434-1: complice
+2435-1: par action
+2436-1: graphique boursier
+2443-1: capital social
+2444-1: accident
+2445-1: adjonction
+2446-1: accidentel
+2447-1: accidentellement
+2448-1: sujet aux accidents
+2449-1: avoir un accident
+2450-1: subir un accident
+2453-1: risque d'accident
+2454-1: actionnaire
+2455-1: bourse
+2459-1: part d'expédition
+2460-1: actions
+2466-1: épervière
+2467-1: actionnariat
+2474-1: AEC (avant l'ère commune, av. J.-C.)
+2475-1: akébie (Akebia quinata)
+2476-1: roseraie
+2477-1: Achéménès
+2478-1: Aix-la-Chapelle
+2479-1: paresseux (animal)
+2480-1: fonction d'Ackermann
+2481-1: Achéron
+2482-1: Akers
+2483-1: d'Achille
+2487-1: talon d’Achille
+2488-1: d'Achille
+2489-1: tendon d’Achille
+2490-1: akinésie
+2491-1: acquérir
+2492-1: obtenir
+2493-1: acquisition
+2495-1: possession
+2496-1: acquisition
+2497-1: gain
+2498-1: butin
+2499-1: date d'acquisition
+2500-1: disponible
+2500-1: acquérable
+2501-1: avide
+2502-1: acquisivité
+2508-1: acquérir des compétences en
+2509-1: récupérer (reconquérir)
+2510-1: représentant des ventes
+2511-1: vendeur itinérant
+2512-1: possessions
+2513-1: acquisitions
+2516-1: acquisition
+2517-1: capital
+2518-1: acquisition
+2520-1: gain
+2522-1: butin
+2523-1: ankaŭ konata kiel (alias)
+2524-1: acclamation
+2525-1: par acclamation
+2529-1: acclamation
+2531-1: approbation
+2532-1: acclimater
+2533-1: s'acclimater
+2536-1: affecté par l'acné
+2537-1: acné
+2538-1: bouton (d'acné)
+2539-1: point (d'acné)
+2547-1: acné
+2548-1: acholie
+2550-1: ajustement
+2551-1: calque de réglage
+2552-1: réglable
+2553-1: personnalisable
+2560-1: ajustement
+2561-1: accommodation
+2562-1: accommodation
+2563-1: accessoire (minéral accessoire)
+2564-1: tableau associatif
+2565-1: accompagner
+2566-1: accompagnement
+2567-1: accompagnement
+2571-1: chaperon
+2572-1: duègne
+2579-1: chaperonner
+2580-1: accompagnateur
+2581-1: accompagnement
+2582-1: escorte
+2583-1: aconitine (C₃₄H₄₇NO₁₁)
+2591-1: conformément à
+2592-1: conformément à
+2597-1: accord genre et nombre
+2598-1: conciliatoire
+2600-1: maniable
+2601-1: docile
+2601-1: manipulable
+2607-1: conciliation
+2608-1: accordéoniste
+2618-1: acore odorant, jonc odorant
+2626-1: pénétration
+2627-1: son aigu
+2628-1: acidité
+2629-1: amer
+2630-1: angulaire
+2631-1: tranchant
+2636-1: abrasif
+2637-1: âcre
+2638-1: acrimonieux
+2639-1: perçant
+2640-1: strident
+2641-1: vif
+2642-1: acidulé
+2643-1: acrimonie
+2644-1: vivement
+2645-1: crûment
+2646-1: superficie
+2647-1: superficie
+2648-1: acerbe
+2649-1: acrimonie
+2650-1: acuité
+2651-1: tranchant
+2652-1: lettre de créance
+2653-1: lettres de créance
+2654-1: représentant autorisé
+2656-1: pouvoirs
+2657-1: organiser un crédit
+2660-1: accréditation
+2661-1: très piquant
+2663-1: strident
+2664-1: acrimonieux
+2665-1: tranchant
+2666-1: incisif
+2667-1: yeux de lynx
+2668-1: personne malvoyante
+2670-1: acridien
+2678-1: cuir à rasoir
+2679-1: acrylique
+2680-1: acide acrylique (CH₂=CHCOOH)
+2681-1: résine acrylique
+2682-1: acrylate (CH₂=CHCOO⁻) 
+2683-1: acrylique
+2684-1: acrylonitrile (CH₂CHCN)
+2686-1: acrobatique
+2687-1: acrobatie
+2689-1: acrobatique
+2690-1: acrobatie
+2692-1: acrocéphalique
+2693-1: acrocéphalie
+2694-1: acrocephalic
+2695-1: acrocyanose
+2696-1: âcre
+2697-1: acrogénique
+2698-1: acrogène
+2699-1: aux yeux perçants
+2701-1: achromaticité
+2702-1: achromatisme
+2703-1: achromatisation
+2704-1: achromatiser
+2705-1: achromatine
+2706-1: daltonien
+2707-1: achromatopsie
+2708-1: daltonisme
+2709-1: acromégalique
+2710-1: acromégalie
+2711-1: acromion
+2715-1: Acropole
+2717-1: acrostiche
+2718-1: acrostiche
+2720-1: acrotère
+2721-1: mégère
+2722-1: se rebiffer
+2724-1: mosquée al-Aqsa
+2725-1: axialement
+2726-1: axillaire
+2728-1: bourgeon axillaire
+2729-1: aisselle
+2733-1: accessoires
+2738-1: axinite (Ca₂(Fe,Mg,Mn)Al₂)
+2739-1: axinomancie
+2740-1: axiologie
+2741-1: axiomatique
+2742-1: sémantique axiomatique
+2744-1: système axiomatique
+2746-1: axiome d'induction complète
+2747-1: axiome d'induction complète
+2748-1: axial
+2749-1: axe
+2750-1: axe
+2751-1: chital (Cerf axis)
+2752-1: essieu
+2758-1: axoïde
+2759-1: axes de coordonnées
+2760-1: axolotl
+2762-1: pivot
+2763-1: axe de rotation
+2764-1: roulement
+2765-1: palier (mécanique)
+2766-1: dossier
+2767-1: actaea
+2768-1: actaea
+2769-1: d'Actium
+2770-1: actinique
+2773-1: série d'actinium
+2774-1: actinisme
+2776-1: actinophage
+2777-1: actinide
+2778-1: actinide
+2779-1: actinochimie
+2780-1: actinolite
+2781-1: actinologie
+2782-1: actinométrique
+2783-1: actinométrie
+2784-1: actinomètre
+2785-1: actinomycète
+2786-1: actinomycose
+2787-1: actinomycète
+2788-1: actinomycose
+2789-1: actinon
+2790-1: actinothérapie
+2791-1: Actium
+2797-1: cellule active
+2798-1: cellule actuelle
+2799-1: document actif
+2800-1: répertoire actif
+2801-1: contenu actif
+2802-1: fenêtre active
+2803-1: feuille active
+2804-1: requête d'action
+2805-1: opérationnel
+2806-1: bureau actif
+2807-1: lien actif
+2808-1: script actif
+2809-1: contrôle actif
+2810-1: partition active
+2811-1: voix active
+2812-1: zone sensible
+2813-1: balises actives
+2814-1: Active Server Pages (ASP)
+2815-1: activité
+2816-1: quelque chose d'actif
+2817-1: activement
+2820-1: agent d'activation
+2821-1: activateur
+2822-1: agent d'activation
+2823-1: activateur
+2829-1: agir
+2830-1: activateur
+2831-1: activation
+2833-1: activiste
+2836-1: actifs
+2844-1: acteur
+2845-1: récitation
+2848-1: troupe de théâtre
+2850-1: actrice
+2857-1: répertoire actuel
+2858-1: l'infini actuel
+2859-1: période en cours
+2860-1: région actuelle
+2861-1: enregistrement actuel
+2862-1: heure actuelle
+2863-1: version actuelle
+2865-1: actuellement
+2866-1: actualité
+2869-1: mise à jour
+2871-1: mise à jour de fichier
+2872-1: actuariel
+2873-1: science actuarielle
+2874-1: actuaire
+2875-1: actuaire
+2876-1: mallette
+2877-1: portefeuille
+2878-1: topique
+2879-1: à jour
+2880-1: dard
+2881-1: perspicacité
+2882-1: accumulatif
+2883-1: cumulatif
+2884-1: accumulation
+2885-1: accumulation
+2886-1: accumulateur
+2887-1: salle des batteries
+2892-1: accumulateur
+2900-1: accumulatif
+2902-1: accumulation
+2903-1: accumulateur
+2904-1: batterie
+2905-1: batterie de stockage
+2906-1: accumulateur
+2907-1: accumulation
+2908-1: accumulateur
+2917-1: exactement
+2918-1: précisément
+2919-1: précision
+2920-1: exactitude
+2923-1: ponctualité
+2924-1: maternité
+2928-1: crapaud accoucheur
+2929-1: alytes
+2931-1: maternité 
+2932-1: service de maternité
+2935-1: travail
+2936-1: accouchement
+2940-1: sage-femme
+2941-1: obstétricienne
+2942-1: obstétricien
+2943-1: travail
+2944-1: accouchement
+2949-1: obstétricien
+2950-1: Lit d'accouchement
+2954-1: chambre d'accouchement
+2955-1: obstétrique
+2957-1: acoustique
+2958-1: guitare acoustique
+2959-1: coupleur acoustique
+2960-1: modem acoustique
+2961-1: boîte de résonance
+2965-1: acutance
+2965-1: piqué (photographie)
+2967-1: angle aigu
+2968-1: nettement
+2969-1: extrêmement
+2970-1: acuité
+2971-1: habituer
+2972-1: accent aigu
+2973-1: accusatoire
+2974-1: accusation
+2979-1: acte d'accusation
+2980-1: accusateur
+2981-1: accusatif
+2982-1: mettre à l'accusatif
+2985-1: accusé
+2989-1: accuser de
+2990-1: charger de
+2991-1: mise en accusation pour
+2992-1: inculper pour
+2994-1: accusateur
+2995-1: procureur
+2996-1: accusé
+2997-1: défendeur
+2998-1: accusation
+3003-1: arrosage
+3004-1: cascade
+3005-1: gravure
+3006-1: eau-forte
+3007-1: graver
+3010-1: aigue-marine
+3012-1: araignée d'eau
+3016-1: les eaux
+3017-1: aquatinte
+3020-1: aqueux
+3021-1: humide
+3022-1: humidité
+3023-1: buée
+3025-1: alluvionnaire
+3025-1: alluvial
+3029-1: irriguer
+3030-1: arroser
+3035-1: arrosoir
+3036-1: Aquilon
+3037-1: étanche
+3038-1: imperméable
+3040-1: Aquitaine
+3041-1: Aquitanien
+3042-1: Aquitaine
+3044-1: barrage
+3045-1: barrage
+3046-1: bleu d'eau
+3047-1: buffle
+3048-1: conduite d'eau
+3049-1: sambar
+3055-1: diviseur d'eau
+3056-1: bassin versant
+3058-1: énergie hydraulique
+3059-1: cataracte
+3062-1: couleur de l'eau
+3063-1: cours d'eau
+3064-1: source d'eau
+3065-1: verre à eau
+3066-1: gouttelette d'eau
+3067-1: goutte à goutte (eau)
+3068-1: goutte d'eau
+3070-1: imperméable
+3071-1: étanche
+3072-1: marigot
+3074-1: cloche de plongée
+3078-1: aqueduc
+3079-1: aqueduc
+3081-1: aquaculture
+3082-1: aquiculture
+3083-1: aquaculture
+3084-1: hydropathie
+3086-1: hydropisie
+3087-1: filigrane
+3088-1: pastèque
+3089-1: adoucisseur d'eau
+3090-1: plongeur
+3091-1: toilette
+3092-1: niveau d'eau
+3093-1: aquarelle
+3096-1: pistolet à eau
+3097-1: aquaplane
+3098-1: plante aquatique
+3099-1: water-polo
+3100-1: irriguer
+3101-1: fournir de l'eau à
+3102-1: Aqua-Lung
+3103-1: source
+3104-1: roue à eau
+3106-1: réservoir
+3107-1: abondant en eau
+3110-1: ski nautique
+3111-1: skieur nautique
+3112-1: faire du ski nautique
+3113-1: ski nautique
+3114-1: stratiotes
+3115-1: arroseur
+3118-1: digue
+3121-1: couche d'eau
+3122-1: hydrocotyle vulgaire
+3122-1: écuelle d'eau
+3123-1: patauger
+3124-1: pour l'arrosage
+3125-1: pour fournir de l'eau potable
+3126-1: mare
+3127-1: drain
+3128-1: conduite d'eau
+3129-1: tourbillon
+3130-1: vortex
+3131-1: tourbillon
+3133-1: château d'eau
+3134-1: vapeur
+3135-1: véhicule nautique
+3137-1: réservoir
+3144-1: arrosage
+3150-1: arrosoir
+3151-1: tuyau d'eau
+3152-1: faire de l'exercice
+3153-1: pratiquer
+3154-1: accuser quelqu'un de meurtre
+3155-1: à
+3156-1: en
+3157-1: vers
+3158-1: à cheval donné on ne regarde pas la bride / la bouche / les dents
+3159-1: à certains il semblerait que
+3160-1: à Noël (heure)
+3161-1: Aux affaires!
+3162-1: personne ne s'en soucie
+3163-1: l'un à l'autre
+3164-1: alar
+3166-1: Alabamien
+3168-1: Alabamien
+3171-1: albâtre
+3173-1: Aladdin
+3174-1: la grotte d’Aladdin
+3175-1: lampe d’Aladdin
+3177-1: griffe porte-accessoires
+3178-1: addenda
+3179-1: compartiment de rangement
+3180-1: alambic
+3181-1: îles Aalands
+3182-1: alanine (C₃H₇NO₂)
+3184-1: Pont d'Allan
+3185-1: adaptable
+3189-1: nouvelles alarmantes
+3190-1: cordon de communication
+3191-1: alarmant
+3192-1: poste de combat
+3197-1: alarme
+3201-1: tir d'avertissement
+3202-1: alarme
+3203-1: signal d'alarme
+3204-1: sirène d'alarme
+3205-1: sonnerie d'alarme
+3206-1: escalier de secours
+3207-1: monitoré
+3208-1: Alaska
+3209-1: péninsule de l'Alaska
+3211-1: Alaskien
+3213-1: alastrim
+3217-1: faucon hobereau
+3218-1: hobereau
+3221-1: delphinium
+3222-1: dauphinelles 
+3223-1: pieds-d'alouette
+3225-1: albanais
+3226-1: langue albanaise
+3227-1: albanais
+3228-1: albanaise
+3231-1: Albanie
+3232-1: taper dedans
+3233-1: tomber sur
+3233-1: se cogner contre
+3234-1: collision
+3237-1: albatros
+3239-1: albédo
+3242-1: Alberta
+3243-1: lac Albert
+3245-1: albigeois
+3248-1: albinisme
+3250-1: albinos
+3253-1: Albin
+3254-1: Albion
+3255-1: albite (NaAlSi₃O₈)
+3258-1: aboyer à
+3260-1: escale
+3263-1: amener à terre
+3265-1: Albert
+3267-1: albuginée
+3268-1: albugo
+3272-1: page de l'album
+3273-1: albumineux
+3275-1: albuminoïde
+3276-1: albuminoïde
+3279-1: pochette d'album
+3281-1: albumose
+3285-1: coiffe
+3286-1: calotte
+3289-1: bubale roux
+3290-1: chasser
+3291-1: ambitionner
+3292-1: pourchasser
+3293-1: poursuivre
+3294-1: se concentrer sur
+3297-1: centrer
+3298-1: centraliser
+3299-1: centripète
+3301-1: Alcibiade
+3305-1: Aldébaran
+3305-1: Alpha Tauri (α Tauri/α Tau)
+3306-1: Aldeburgh
+3307-1: aldéhydique
+3309-1: échevin
+3310-1: Aurigny
+3311-1: cor anglais
+3312-1: diriger
+3317-1: contre-ténor
+3321-1: en plus
+3322-1: supplémentaire
+3323-1: carte d'extension
+3324-1: valeur ajoutée
+3325-1: ajout
+3326-1: addenda
+3327-1: ajout
+3328-1: additif
+3329-1: appendice
+3330-1: addition
+3331-1: complément
+3332-1: pièce jointe
+3333-1: en plus
+3334-1: en complément
+3335-1: en plus de moi
+3336-1: en plus du fait que
+3337-1: addenda
+3338-1: ajouter (à)
+3339-1: ajouter
+3340-1: compléter
+3342-1: diluer (avec de l'eau)
+3343-1: signaler
+3344-1: attacher de l'importance à
+3345-1: ajouter une requête
+3346-1: accumuler
+3347-1: comptabilisation
+3348-1: il est intéressant de noter que
+3350-1: dévotion
+3351-1: adoration
+3358-1: extension (emplacement)
+3360-1: emplacement d'extension
+3361-1: emplacement (extension)
+3362-1: carte d'extension
+3365-1: aldostérone (C₂₁H₂₈O₅)
+3366-1: alto
+3367-1: aldose
+3368-1: alto
+3369-1: contralto
+3370-1: alto
+3371-1: alto
+3374-1: au hasard
+3375-1: par hasard
+3376-1: Alex
+3377-1: avenue
+3378-1: Allegheny
+3380-1: allégoriquement
+3386-1: alexandrin
+3387-1: alexandrie
+3388-1: alexandrinisme
+3389-1: Alexandrien
+3391-1: alexandrin
+3394-1: alexine
+3395-1: Alexis
+3396-1: Alex
+3397-1: Alexei
+3398-1: alectryomancie
+3398-1: alectryonomancie 
+3399-1: coopter
+3401-1: alémanique
+3410-1: Alep
+3411-1: allergène
+3412-1: allergène
+3414-1: allergique
+3416-1: allergologue
+3418-1: allergologie
+3422-1: être présent
+3423-1: présence
+3425-1: écrou à oreilles
+3427-1: aleuromancie
+3428-1: aléoutien
+3429-1: îles Aléoutiennes
+3430-1: Aléout
+3432-1: îles Aléoutiennes
+3434-1: arriver
+3438-1: alpha
+3439-1: Alpha Centauri
+3440-1: version alpha
+3441-1: test alpha
+3442-1: version alpha
+3445-1: ordre alphabétique
+3446-1: alphabétique
+3447-1: alphabétiquement
+3448-1: alphabétiser
+3449-1: alphabétisation
+3452-1: épeler
+3455-1: ranger
+3456-1: alphanumérique
+3457-1: par ordre alphanumérique
+3458-1: alpha
+3459-1: particule alpha
+3460-1: rayonnement alpha
+3461-1: rayons alpha
+3462-1: adaptation
+3468-1: application
+3469-1: appendice
+3470-1: à apposer
+3471-1: joindre
+3472-1: attacher à
+3473-1: à joindre
+3474-1: attaché
+3475-1: pièce jointe
+3476-1: objet attaché
+3477-1: pièce jointe
+3478-1: alphitomancie
+3479-1: affluent (d'une rivière)
+3480-1: trajectoire d'approche
+3481-1: voie d'approche
+3482-1: approcher
+3483-1: voler
+3499-1: Alphonse
+3500-1: Alphonso
+3502-1: former
+3503-1: se transformer en
+3507-1: confrontation
+3508-1: face à face
+3509-1: confrontation
+3510-1: en confrontation
+3513-1: déposer
+3514-1: couler
+3515-1: algueux
+3516-1: garder
+3520-1: forme algébrique
+3522-1: algébriquement
+3523-1: corps algébriquement clos
+3524-1: symboles algébriques
+3525-1: algébriste
+3527-1: algèbre linéaire
+3528-1: algérien
+3529-1: algérien
+3530-1: algérienne
+3531-1: algérien
+3533-1: Algérie
+3534-1: Alger
+3535-1: algueux
+3541-1: coller sur place
+3542-1: coller spécialement
+3543-1: collant
+3544-1: adhésivité
+3544-1: viscosité
+3546-1: adhérence
+3547-1: algue
+3550-1: Algol
+3551-1: algologue
+3552-1: algologie
+3553-1: algologue
+3554-1: Algonquien
+3555-1: Algonquin
+3556-1: Algonquien
+3557-1: Algonquin
+3558-1: Algonquien
+3561-1: Algonquie
+3562-1: algorithmique
+3563-1: langage algorithmique
+3565-1: algorithme de clé publique
+3566-1: réglable
+3567-1: réglable
+3568-1: bricoler
+3569-1: peaufiner
+3570-1: ajustement
+3574-1: ajuster
+3575-1: ajusteur
+3576-1: bouton de réglage
+3577-1: ajustement
+3578-1: Alhambra
+3579-1: se dépêcher 
+3580-1: se hâter
+3581-1: domestiquer
+3582-1: alchimie
+3590-1: d'un autre côté
+3591-1: autre chose
+3592-1: ailleurs
+3593-1: à un autre moment
+3595-1: différemment
+3596-1: sinon
+3597-1: alliés
+3598-1: alliés
+3600-1: alliés
+3601-1: allier
+3606-1: allié
+3608-1: allié
+3609-1: alias
+3610-1: aussi appelé
+3611-1: encore appelé
+3612-1: autrement dit
+3613-1: réorganiser
+3614-1: alliaire 🍁
+3615-1: herbe à ail 🍁
+3617-1: Ali Baba
+3619-1: Alice
+3621-1: alidade
+3622-1: en d'autres termes
+3623-1: URL de redirection
+3624-1: pour rediriger
+3625-1: redirection
+3626-1: redirection de lien
+3632-1: en d'autres termes
+3633-1: sinon
+3634-1: malade mental
+3635-1: étranger
+3636-1: aliénable
+3637-1: aliénation
+3638-1: disposer de
+3639-1: vendre
+3640-1: psychiatre
+3642-1: réacheminer
+3643-1: aliénation
+3644-1: d'un autre homme
+3645-1: d'autres personnes
+3646-1: de quelqu'un d'autre
+3647-1: allonyme
+3648-1: aliphatique
+3649-1: aliphatique
+3652-1: de l'autre côté de
+3653-1: une autre fois
+3658-1: transfigurer
+3659-1: transformer
+3660-1: transmuter
+3662-1: transformer
+3664-1: refonte
+3665-1: régénération
+3666-1: transformation
+3667-1: métamorphose
+3668-1: transformation
+3669-1: disciple
+3672-1: converser avec un autre espérantiste dans une langue autre que la sienne ou l’espéranto
+3674-1: autre personne
+3675-1: personne d'un autre groupe
+3676-1: formulaire de demande
+3677-1: s'affilier
+3678-1: rejoindre
+3679-1: inscrire
+3680-1: s'inscrire
+3681-1: s'affilier
+3682-1: attribuer à
+3684-1: formulaire de demande
+3685-1: formulaire d'inscription
+3686-1: formulaire d'adhésion
+3687-1: formulaire d'inscription
+3688-1: partisan
+3689-1: accession
+3690-1: adhésion
+3691-1: zoomer
+3692-1: adhérent
+3693-1: touche ALT
+3702-1: modification
+3703-1: modification
+3704-1: changement
+3705-1: conversion
+3706-1: transformation
+3708-1: aliquote
+3710-1: allyle
+3711-1: exotique
+3712-1: étranger
+3713-1: étranger
+3714-1: étranger
+3715-1: citoyen d'un autre pays
+3716-1: à l'étranger
+3720-1: ailleurs
+3721-1: ailleurs
+3722-1: d'une manière différente
+3724-1: alimentaire
+3727-1: canal alimentaire
+3728-1: saut de paragraphe
+3729-1: mise en forme de paragraphe
+3730-1: bordure de paragraphe
+3731-1: balise de paragraphe
+3732-1: tiret du paragraphe
+3733-1: style de paragraphe
+3734-1: retour à la ligne
+3735-1: mettre en retrait
+3738-1: Aline
+3739-1: aliasing
+3740-1: alias
+3741-1: sinon
+3742-1: autrement appelé
+3743-1: renommer
+3744-1: nommé différemment
+3745-1: alias
+3746-1: sinon
+3747-1: autrement appelé
+3750-1: Ali
+3751-1: Ali Baba
+3752-1: sinon
+3753-1: un autre endroit
+3754-1: ailleurs
+3755-1: Ali Pasha
+3756-1: transfert de port
+3757-1: accessible
+3758-1: accessibilité
+3759-1: accès
+3760-1: accès
+3761-1: approche
+3762-1: passerelle
+3763-1: dissident
+3768-1: code d'accès
+3769-1: politique LCA
+3770-1: accès
+3771-1: approche
+3772-1: erreur d'accès
+3773-1: code d'accès
+3774-1: contrôle d'accès
+3775-1: méthode d'accès
+3776-1: contrôle d'accès
+3777-1: route d'accès
+3779-1: hétérosexualité
+3780-1: hétérosexuel
+3781-1: alisme (🍁)
+3782-1: alyssum (🍁)
+3783-1: Allison
+3784-1: Alison
+3787-1: étranger
+3788-1: réorganiser
+3789-1: restructurer
+3790-1: au fait
+3791-1: accessoirement
+3792-1: une autre fois
+3793-1: allitératif
+3794-1: allitérer
+3796-1: l’enfant de quelqu'un d’autre
+3804-1: alizarine
+3805-1: alizé
+3807-1: alisier blanc (🍁)
+3808-1: lancer
+3809-1: appel d'offres
+3812-1: à attribuer
+3813-1: être accordé
+3814-1: arbitrage
+3815-1: évaluer
+3816-1: jurer (à quelque chose)
+3818-1: justifier (texte)
+3819-1: justification (texte)
+3820-1: justifie à droite
+3821-1: al-Qaida
+3822-1: alcaïque
+3823-1: alcalin
+3825-1: alcalinité
+3826-1: bleu alcalin
+3827-1: alcali
+3828-1: alcaliniser
+3833-1: alcalose
+3834-1: alcane
+3835-1: alcène
+3836-1: alcanol
+3837-1: série alcane
+3838-1: éland
+3839-1: alcidé
+3839-1: alques 
+3843-1: kasbah
+3845-1: alkékenge (🍁)
+3846-1: coqueret alkékenge (🍁)
+3847-1: lanterne (🍁)
+3848-1: physalis alkekengi (🍁)
+3849-1: alchémique (🍁)
+3850-1: alchimique
+3851-1: alchimiste
+3852-1: alchémille (🍁)
+3853-1: alchimie
+3854-1: wapiti (bébé)
+3855-1: wapiti (femelle)
+3856-1: Alcinoos
+3857-1: cliquable
+3858-1: rendre cliquable
+3860-1: clic
+3861-1: clic publicitaire
+3862-1: d'entreprise à consommateur
+3863-1: s'acclimater
+3866-1: acclimatation
+3869-1: alcoolique
+3870-1: spiritueux
+3871-1: interdiction des boissons alcoolisées
+3872-1: alcoolique
+3878-1: boissons alcoolisées
+3879-1: spiritueux
+3880-1: liqueur
+3881-1: alcoolate
+3882-1: alcoholaémie
+3883-1: alcoolique
+3884-1: alcoolique
+3887-1: alcoolique
+3888-1: alcoolisme
+3889-1: alcoolomètre
+3890-1: abus d'alcool
+3893-1: teneur en alcool
+3894-1: alcoolique
+3895-1: être rassemblé pour son peuple
+3897-1: conduire à
+3898-1: fond de panier
+3899-1: adaptabilité
+3900-1: normaliser
+3901-1: standardiser
+3902-1: uniformiser
+3903-1: s'accommoder à
+3904-1: s'adapter à
+3905-1: accommodation
+3906-1: adaptation
+3908-1: convenablement
+3909-1: de manière appropriée
+3910-1: commodément
+3911-1: baie vitrée
+3914-1: aligner sur la grille
+3915-1: incrémental
+3916-1: mise à jour incrémentielle
+3917-1: sauvegarde incrémentielle
+3919-1: incrémenter
+3920-1: adné
+3921-1: accrétion
+3922-1: accrétion
+3923-1: pour accréter
+3924-1: pour accréter
+3925-1: accrétion
+3926-1: pièce jointe
+3932-1: embarquer
+3933-1: incruster
+3934-1: fourrure
+3935-1: échelle
+3936-1: coudre
+3938-1: acculturer
+3939-1: acculturation
+3942-1: écraser
+3943-1: habitude
+3944-1: astuce
+3945-1: habituer quelqu'un à quelque chose
+3946-1: prendre l'habitude de
+3947-1: s'habituer
+3948-1: ajustement
+3949-1: recevable
+3950-1: recevable
+3952-1: admission
+3954-1: borne
+3955-1: duc-d'Albe
+3956-1: mât d'amarrage
+3964-1: amarrer un navire
+3965-1: attache
+3966-1: pièce jointe
+3967-1: adhérence
+3968-1: adhésion
+3969-1: pièce jointe
+3970-1: aligner
+3971-1: alignement
+3972-1: en appel
+3973-1: attrayant
+3974-1: attraction
+3975-1: appâts
+3976-1: de manière persuasive
+3977-1: attraction
+3978-1: attractivité
+3979-1: charme
+3980-1: attirer
+3982-1: inciter
+3983-1: piéger
+3984-1: attraction
+3985-1: placer
+3986-1: localisé
+3987-1: placement
+3988-1: Almageste
+3992-1: hors d’oeuvres
+3993-1: champignon vénéneux
+3994-1: vers la mer
+3995-1: à la mer
+3996-1: mettre sur la touchefz
+3997-1: marginalisation
+3998-1: avancer
+3999-1: marcher sur
+4000-1: avance
+4001-1: résident d'Almaty
+4005-1: alma
+4006-1: almée, a'oualem (عالِم)
+4007-1: appendice
+4008-1: pièce jointe
+4012-1: application
+4013-1: ajuster
+4014-1: prendre une mesure
+4015-1: mélange
+4016-1: mélange
+4018-1: mélange
+4019-1: conquérir
+4020-1: Alma
+4021-1: Almodad
+4024-1: mordre
+4025-1: mordre à l'hameçon
+4026-1: mordre à l'appât
+4029-1: charitablement
+4030-1: faire l'aumône
+4032-1: gueux
+4033-1: mendiant
+4034-1: vagabond
+4035-1: tronc des pauvres
+4036-1: frère mendiant
+4041-1: demander l'aumône
+4042-1: ordre mendiant
+4043-1: charity bag
+4044-1: mendicité
+4045-1: mendiant
+4046-1: mendier
+4047-1: mendicité
+4048-1: mendiant
+4049-1: sac de mendiant
+4050-1: boîte d'aumône
+4051-1: hospice
+4052-1: maison de charité
+4053-1: maison de correction
+4054-1: mendiante
+4058-1: d'un aulne (🍁)
+4059-1: atteindre à la nage
+4062-1: alnico
+4063-1: alnico
+4070-1: calibrer
+4073-1: stratiote (🍁)
+4074-1: aloès (🍁)
+4075-1: aloès (🍁)
+4076-1: base du bras
+4077-1: base de l'aile
+4078-1: Allobroge
+4079-1: alleu
+4082-1: aloïne (C₂₁H₂₂O₉)
+4084-1: allier
+4084-1: amalgamer
+4086-1: citronnelle (🍁)
+4087-1: agalloche (🍁)
+4088-1: allomorphique
+4089-1: allomorphe
+4090-1: allonge
+4091-1: extension
+4095-1: allopathe
+4098-1: vulpin (🍁)
+4099-1: allorythmie
+4100-1: aloétique
+4101-1: Alost
+4102-1: collecteur de jus d'aloès
+4103-1: jus d'aloès
+4104-1: allotriomorphique
+4105-1: xénomorphes
+4106-1: allotrophie
+4107-1: allotropique
+4108-1: allotropisme
+4109-1: allotropie
+4110-1: allotropisme
+4111-1: allotropie
+4112-1: allotrope
+4114-1: alpin
+4115-1: les alpes
+4116-1: cible à tirer
+4119-1: habitant des Alpes
+4120-1: au pair
+4121-1: alpenglow
+4122-1: à la valeur nominale
+4123-1: au pair
+4124-1: parité
+4125-1: valeur faciale
+4126-1: valeur nominale
+4127-1: parité
+4128-1: pair
+4129-1: abordable
+4130-1: communicatif
+4131-1: haranguer
+4134-1: intervention
+4135-1: message
+4136-1: discours
+4140-1: approcher
+4141-1: entrer dans le vif du sujet
+4142-1: aller droit au but
+4143-1: ne pas tourner autour du pot
+4144-1: approche
+4145-1: rapatriement
+4146-1: alpenstock
+4147-1: appendice
+4148-1: appendice
+4149-1: à ajouter
+4151-1: alpage
+4153-1: alpinisme
+4154-1: alpiniste
+4160-1: bouquetin
+4163-1: Alpes
+4164-1: bouquetin
+4165-1: donner
+4166-1: apporter en offrande
+4167-1: arrivée
+4168-1: arrivage
+4169-1: fourniture
+4170-1: porteur
+4171-1: apporter
+4172-1: chercher
+4173-1: transmettre
+4174-1: à porter
+4175-1: offrande
+4176-1: assigner
+4177-1: affectation
+4178-1: prier
+4179-1: invoquer
+4181-1: taux d'adoption
+4186-1: prendre quelque chose à coeur
+4187-1: adoption
+4188-1: hypothèse
+4190-1: adoption
+4191-1: convergence
+4192-1: rapprocher
+4193-1: s'avancer
+4195-1: se rapprocher
+4198-1: approche
+4199-1: promettre
+4200-1: approprier
+4201-1: prendre possession
+4202-1: extraire
+4203-1: appropriation
+4204-1: acquisition
+4205-1: prise de contrôle
+4208-1: PA system
+4209-1: Public Address
+4210-1: être poussé sur
+4211-1: arbre entrant
+4213-1: monter
+4214-1: courir vers
+4215-1: adresse de l'opérateur
+4215-1: pointeur
+4216-1: regarder
+4219-1: commenter
+4220-1: alsacien
+4221-1: alsacien
+4222-1: Alsace
+4224-1: Alsace-Lorraine
+4225-1: bondir
+4226-1: bond
+4227-1: envoyer à
+4228-1: envoi
+4229-1: stellaire (🍁)
+4230-1: envoyer par bateau
+4231-1: annexe
+4234-1: se mettre à table
+4235-1: s'assoir à table
+4238-1: approcher furtivement
+4239-1: fenêtre donnant sur la rue
+4240-1: épauler
+4241-1: viser
+4242-1: pointer
+4243-1: ascension
+4244-1: capacité de téléchargement
+4245-1: télécharger
+4246-1: téléchargeur
+4247-1: flotter
+4253-1: Cantiques
+4254-1: chant de Salomon
+4255-1: Cantique des cantiques
+4257-1: sponsor
+4258-1: exposant
+4259-1: marée haute
+4261-1: supérieur
+4263-1: altaïque
+4264-1: langue de l'Altaï
+4274-1: acrobate
+4274-1: aérieniste
+4278-1: retable
+4279-1: choeur
+4280-1: presbytère
+4281-1: sanctuaire
+4282-1: bougie d'autel
+4284-1: Ara
+4285-1: retable
+4286-1: marches de l'autel
+4287-1: retable
+4288-1: tapis d'autel
+4289-1: nappe d'autel
+4290-1: fortement
+4291-1: monter en flèche
+4295-1: altimètre
+4298-1: acrophobie
+4300-1: noble
+4301-1: sublime
+4302-1: monter en flèche
+4303-1: haut lieu
+4304-1: lieu surélevé
+4305-1: cher
+4306-1: accorder
+4306-1: ajuster
+4307-1: dans les hauteurs
+4309-1: adhésif
+4310-1: collant
+4313-1: adhérence
+4314-1: adhésion
+4320-1: coûteux
+4321-1: cher
+4323-1: vers la terre
+4325-1: vers la terre
+4326-1: piste d'atterrissage
+4327-1: aller à terre
+4328-1: débarquer
+4330-1: atterrissage
+4335-1: alternance
+4336-1: entrelacement
+4338-1: courant électrique alternatif
+4339-1: alternatif
+4340-1: touche Alt
+4341-1: médecine alternative
+4342-1: alternativement
+4343-1: à la place
+4347-1: semi-duplex
+4348-1: alternativement
+4350-1: alternance
+4351-1: variation
+4353-1: alternance
+4354-1: alterner
+4355-1: alternance
+4356-1: alternateur
+4357-1: touche ALT
+4358-1: touche alternative
+4359-1: alternance
+4360-1: précieux
+4362-1: cordialement
+4363-1: sincèrement
+4365-1: hifi
+4366-1: haute fidélité
+4367-1: de haut vol
+4367-1: ambitieux
+4368-1: haut fourneau
+4369-1: haute fréquence
+4370-1: haute fréquence
+4371-1: haut allemand
+4372-1: supérieur
+4373-1: extrêmement
+4374-1: grandement
+4375-1: fortement
+4376-1: dans une large mesure
+4377-1: mettre à niveau
+4378-1: mise à niveau
+4379-1: soulever
+4380-1: augmenter
+4381-1: élever
+4382-1: être un mile de haut
+4383-1: en hausse
+4387-1: se lever
+4388-1: montée
+4389-1: montée
+4390-1: altimètre
+4391-1: contrainte
+4392-1: palier
+4393-1: attrayant
+4394-1: attraction
+4395-1: attrayant
+4397-1: attraction
+4398-1: pouvoir d'attraction
+4399-1: altitude
+4401-1: quelqu'un de la classe supérieure
+4402-1: touche Alt
+4403-1: grand
+4404-1: haute qualité
+4405-1: haut de gamme
+4406-1: académie
+4407-1: institut
+4408-1: soulever
+4409-1: lever
+4410-1: élever
+4412-1: montagnard
+4413-1: haute montagne
+4415-1: gestion de l'alimentation avancée
+4416-1: langage de programmation de haut niveau
+4419-1: angle d'élévation
+4421-1: acrophobie
+4422-1: altimètre
+4423-1: jauge d'altitude
+4424-1: altocumulus
+4425-1: altimètre
+4426-1: altostratus
+4427-1: autoclave
+4428-1: cher
+4429-1: inestimable
+4430-1: précieux
+4431-1: adapter
+4432-1: couper pour former
+4434-1: surélevé
+4436-1: Alt
+4437-1: touche Alt
+4441-1: imposition
+4443-1: altruiste
+4444-1: altruistiquement
+4447-1: altruiste
+4449-1: forcé
+4450-1: maigre
+4451-1: de haute stature
+4452-1: grand
+4453-1: estimer beaucoup
+4454-1: valoriser grandement
+4456-1: se tourner vers
+4462-1: indirect
+4463-1: allusif
+4464-1: indirectement
+4468-1: pour annoncer
+4469-1: insinuer
+4470-1: allusion
+4471-1: entremetteur
+4472-1: Lac aux Allumettes
+4474-1: boîte d'allumettes
+4475-1: articles en aluminium
+4476-1: aluminate
+4477-1: aluminique
+4478-1: aluminium
+4479-1: alumineux
+4480-1: aluminate
+4481-1: aluminique
+4482-1: aluminium
+4484-1: alumineux
+4485-1: aluminiser
+4487-1: mine d'alunite
+4488-1: alunite
+4490-1: alumine
+4491-1: alluvionnaire
+4492-1: dépôt alluvial
+4495-1: à utiliser
+4496-1: Alvan
+4497-1: arriver
+4498-1: personne arrivant
+4499-1: chose qui arrive
+4503-1: atteindre la fin de
+4504-1: faire venir (quelqu'un)
+4505-1: courrier entrant
+4506-1: courrier entrant
+4507-1: arrivée
+4509-1: panneau d'arrivée
+4510-1: horaire d'arrivée
+4511-1: alvéolaire
+4512-1: alvéolaire
+4513-1: alvéolaire
+4514-1: alvéolée
+4515-1: alvéolite
+4519-1: alvéolée
+4521-1: allée
+4522-1: rampe
+4523-1: entrée
+4525-1: arriver
+4526-1: approcher
+4527-1: venir
+4528-1: conduire
+4529-1: déposer
+4530-1: transporter
+4534-1: Alva
+4535-1: accès
+4536-1: approche
+4538-1: appeler
+4539-1: faire appel
+4540-1: invocation
+4541-1: appelable
+4542-1: invocable
+4545-1: appeler quelqu'un comme témoin
+4546-1: invoquer
+4547-1: à appeler
+4549-1: programme invoqué
+4550-1: appel
+4551-1: invocation
+4552-1: appel de fonction
+4556-1: alsacien
+4557-1: alsacien
+4559-1: brun rougeâtre
+4560-1: rouan
+4561-1: auburn
+4562-1: affectueux
+4563-1: charmant
+4564-1: gentil
+4565-1: sympa
+4566-1: agréable
+4567-1: faire l'amour
+4571-1: amant
+4573-1: faire l'amour
+4574-1: courtisane
+4575-1: maîtresse
+4579-1: Amalek
+4580-1: amalécite
+4581-1: Amalek
+4583-1: fusionner
+4583-1: amalgamer
+4585-1: Amalia
+4586-1: Amelia
+4587-1: amande
+4588-1: amanitine (C₃₉H₅₄N₁₀O₁₄S)
+4590-1: Amman (عمان)
+4591-1: affectueux
+4592-1: tendre
+4593-1: affectueusement
+4594-1: avec tendresse
+4594-1: avec amour
+4595-1: amoureuse
+4596-1: maîtresse
+-----------------------
+
+(🍁)  (⚕) (C₀₁₂₃₄₅₇₈₉H)
+
+
+ĉefa bufro   mémoire tampon principale
+presbufro/printbufro  spouleur d'impression
+statika bufro  mémoire tampon statique
+statika sonbufro  mémoire tampon de son statique
+videobufro tampon vidéo
