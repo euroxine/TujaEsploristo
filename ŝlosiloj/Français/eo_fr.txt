@@ -2349,8 +2349,8 @@
 3611-1: encore appelé
 3612-1: autrement dit
 3613-1: réorganiser
-3614-1: alliaire 🍁
-3615-1: herbe à ail 🍁
+3614-1: alliaire (🍁)
+3615-1: herbe à ail (🍁)
 3617-1: Ali Baba
 3619-1: Alice
 3621-1: alidade
@@ -3043,9 +3043,270 @@
 4594-1: avec amour
 4595-1: amoureuse
 4596-1: maîtresse
+4600-1: aum (ॐ)
+4604-1: amer
+4605-1: amarante
+4608-1: amèrement
+4609-1: acerbité
+4610-1: amertume
+4611-1: rendre amer
+4612-1: devenir amer
+4616-1: amaryllis (🍁)
+4617-1: Amarillo
+4618-1: acrimonie
+4619-1: amertume
+4624-1: chiffrement en masse
+4625-1: exportation en vrac
+4626-1: importation en vrac
+4627-1: envois groupés
+4628-1: charge en vrac
+4629-1: tas
+4630-1: pile
+4631-1: massacre
+4632-1: abattage
+4634-1: massacrer
+4635-1: abattre
+4636-1: démonstration
+4637-1: rassemblement
+4639-1: syndication
+4640-1: en grand nombre
+4641-1: en masse
+4642-1: copier en bloc
+4643-1: innombrable
+4644-1: essaims
+4645-1: hordes
+4646-1: grande quantité
+4647-1: petite quantité
+4648-1: production de masse
+4649-1: produire en masse
+4650-1: Amasias
+4651-1: cumulatif
+4659-1: accumulation
+4663-1: (instrument des) médias de masse
+4664-1: communication de masse
+4666-1: se ruer
+4666-1: charger
+4667-1: bousculade
+4669-1: médias de masse
+4670-1: stockage en vrac
+4671-1: dispositif de stockage de masse
+4672-1: carnage
+4688-1: Amasa
+4689-1: une masse de
+4690-1: envoi
+4691-1: production de masse
+4692-1: envoi
+4693-1: charnier
+4694-1: aimé
+4695-1: bien-aimé
+4698-1: Amaterasu (天照)
+4699-1: bien-aimé
+4700-1: être cher
+4701-1: amoureux
+4702-1: chérie
+4703-1: bien-aimé
+4704-1: bien-aimé
+4705-1: être cher
+4706-1: amoureux
+4707-1: chéri
+4708-1: bien-aimé
+4709-1: amateur
+4710-1: radio amateur
+4711-1: amateur
+4712-1: artisanat amateur
+4714-1: travail insignifiant
+4715-1: de façon amateur
+4718-1: amateurisme
+4722-1: amaurose (⚕)
+4723-1: Amazone
+4724-1: Amazonien
+4725-1: Amazone
+4727-1: Bassin amazonien
+4728-1: Amazonas
+4730-1: Oshiwambo
+4731-1: Oshivambo
+4735-1: ambassade
+4736-1: ambassadeur
+4737-1: ambassadrice
+4738-1: ambassade
+4741-1: ambassadeur
+4742-1: ambassadrice
+4745-1: double enjeu
+4746-1: ambidextre
+4747-1: ambidextre
+4748-1: ambidextérité
+4749-1: bidirectionnel
+4750-1: duplex
+4752-1: canal duplex
+4753-1: imprimante recto verso
+4757-1: imprimante recto verso
+4758-1: imprimante recto verso
+4759-1: des deux côtés
+4760-1: des deux côtés de
+4761-1: des deux côtés
+4762-1: enjamber
+4763-1: dans les deux cas
+4765-1: à deux mains
+4766-1: de toute façon
+4767-1: dans les deux sens
+4768-1: dans les deux cas
+4771-1: bisexuel
+4772-1: bisexualité
+4774-1: à double tranchant
+4776-1: ciseau d'enclume
+4779-1: carriériste
+4780-1: ambitieux
+4781-1: ambidextre
+4782-1: ambifixe
+4784-1: ambiguïté
+4785-1: ambiguë
+4788-1: ambivalent
+4789-1: ambivalemment
+4790-1: ambivalence
+4791-1: ambiversion
+4792-1: ambivert
+4793-1: Muir of Ord
+4795-1: amblyopique
+4796-1: amblyopie
+4798-1: Amboisiens
+4799-1: Ambaciens
+4804-1: bec d'enclume
+4806-1: tranche à main
+4810-1: Ambrosien
+4811-1: ambroisie
+4813-1: ambulancier
+4816-1: établissement de soins ambulatoires
+4818-1: affectueusement
+4819-1: avec amour
+4820-1: amibien
+4821-1: aimable
+4822-1: aimablement
+4824-1: amibocyte
+4825-1: amibes
+4826-1: affection
+4827-1: tendresse
+4831-1: amylase
+4836-1: amoureux
+4837-1: tendre
+4838-1: affectueux
+4839-1: avec amour
+4840-1: tendrement
+4841-1: affectueusement
+4842-1: tendresse
+4843-1: amendable
+4844-1: amendement
+4847-1: amen
+4848-1: aménorrhée
+4849-1: amentifère (🍁)
+4852-1: amentiforme (🍁)
+4854-1: américain
+4855-1: American Express
+4856-1: Américaine
+4857-1: américanisme
+4858-1: américain
+4861-1: déclaration d'amour
+4864-1: améthyste
+4865-1: améthystine
+4867-1: amétropique
+4868-1: amétropie
+4869-1: amétropie
+4870-1: amphétamine
+4871-1: amphiarthrose
+4872-1: amphibie
+4873-1: véhicule amphibie
+4874-1: amphibie
+4878-1: amphibiologie
+4879-1: amphibologie
+4880-1: amphibole
+4881-1: hornblende
+4882-1: amphibologie
+4883-1: amphibrachique
+4885-1: amphibrachique
+4887-1: amphictyonique
+4888-1: amphictyonie
+4889-1: amphictyon
+4890-1: Amphictyon
+4891-1: Amphimédon
+4892-1: amphioxus
+4893-1: Amphion
+4894-1: amphipode
+4895-1: Amphipolis
+4896-1: amphithéâtre
+4901-1: semblable à un amphithéâtre
+4902-1: Amphitryon
+4903-1: amphiuma
+4905-1: Verseau
+4906-1: amphotère
+4907-1: amharique
+4908-1: amharique
+4911-1: amianthium muscitoxicum
+4912-1: amiante
+4915-1: amidol (C₆H₃(NH₂)₂OH)
+4916-1: attachant
+4917-1: amygdale
+4918-1: attachant
+4919-1: faire aimer
+4921-1: nom familier
+4924-1: cercle d'amis
+4925-1: amicalement
+4926-1: affectueux
+4927-1: aimable
+4928-1: affectueusement
+4931-1: amical
+4932-1: convivialité
+4933-1: être amis
+4934-1: soyez en bons termes
+4937-1: demande d'amitié
+4940-1: liste d'amis
+4941-1: amict
+4942-1: amyle
+4943-1: alcool amylique (C₅H₁₂O)
+4944-1: amylase
+4945-1: amyle
+4946-1: amino
+4947-1: acide aminé
+4952-1: affectueusement
+4953-1: amabilité
+4954-1: douceur
+4955-1: charme
+4956-1: douceur
+4957-1: parade nuptiale
+4958-1: flirter
+4961-1: prétendant
+4962-1: aminophénol (H₂NC₆H₄OH)
+4964-1: acide aminé
+4965-1: aminophénol  (H₂NC₆H₄OH)
+4966-1: anisidine (CH₃OC₆H₄NH₂)
+4968-1: amie chauve 
+4968-1: poisson-castor
+4968-1: choupique 
+4969-1: Îles Amirante
+4970-1: Amish
+4971-1: Amishisme
+4973-1: galant
+4974-1: prétendant
+4975-1: amoureux
+4976-1: amitose
+4977-1: prétendant
+4978-1: petit ami potentiel
+4980-1: lettre d'amour
+4981-1: amnistier
+4982-1: gracier
+4985-1: amnésique
+4987-1: amnésique
+4988-1: amniotique
+4989-1: amnios (d'embryon)
+4990-1: amniocentèse
+4991-1: Amnon
+4994-1: ammophila (🍁)
+4995-1: amok (Folie meurtrière)
+4996-1: rendre fou
+4997-1: amok (Folie meurtrière)
+4998-1: cannelle
+4999-1: ammoniacal
 -----------------------
 
-(🍁)  (⚕) (C₀₁₂₃₄₅₇₈₉H)
+(🍁)  (⚕) (C₀₁₂₃₄₅₆₇₈₉H)
 
 
 ĉefa bufro   mémoire tampon principale
