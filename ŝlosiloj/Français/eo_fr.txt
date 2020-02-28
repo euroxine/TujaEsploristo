@@ -3304,6 +3304,1407 @@
 4997-1: amok (Folie meurtrière)
 4998-1: cannelle
 4999-1: ammoniacal
+5000-1: chlorure d'ammonium (NH₄Cl)
+5001-1: ammoniacal
+5002-1: ammoniacal
+5003-1: ammonier
+5006-1: Ammonite
+5007-1: chlorure d'ammonium (NH₄Cl)
+5008-1: ammoniac (NH₃)
+5009-1: ammonium
+5011-1: Ammon
+5012-1: Amon
+5014-1: affectueux
+5016-1: amoureux
+5018-1: rapport sexuel
+5019-1: amante
+5021-1: cupidon
+5025-1: Amorrite
+5033-1: jeu d'amour
+5036-1: Amour
+5037-1: Cupidon
+5038-1: Éros (Ἔρως)
+5039-1: voyeur
+5040-1: rachetable
+5041-1: remboursable
+5045-1: amortir
+5047-1: rachat
+5048-1: fonds d'amortissement
+5049-1: chaud
+5050-1: sexy
+5060-1: ampère-heure
+5062-1: ampère-minute
+5063-1: ampère
+5065-1: ampèremètre
+5066-1: ampère-seconde
+5067-1: ampère-tour
+5072-1: encombrement
+5073-1: globalement
+5079-1: amplifier
+5080-1: agrandir
+5081-1: agrandir
+5082-1: agrandissement
+5083-1: nom de plage
+5093-1: plein d'amour
+5094-1: plein d'amour
+5095-1: amplificatoire
+5096-1: amplificateur
+5098-1: amplificatif
+5099-1: amplificatoire
+5103-1: amplification
+5105-1: amplification
+5107-1: régulateur d'amplitude
+5108-1: poème d'amour
+5110-1: ampullaire
+5116-1: ampullaire
+5117-1: pipette
+5118-1: amputation
+5120-1: amputé
+5121-1: amputation
+5122-1: Amraphel (אַמְרָפֶל)
+5123-1: histoire d'amour
+5124-1: Amram (עַמְרָם)
+5125-1: rendez-vous amoureux
+5126-1: relation amoureuse
+5127-1: Amsterdam
+5128-1: habitants d'Amsterdam
+5131-1: unité de masse atomique
+5138-1: Amour
+5142-1: passer un bon moment
+5144-1: amusement
+5145-1: divertissement
+5146-1: loisir
+5147-1: passe-temps
+5148-1: chose amusante
+5149-1: amusement
+5150-1: amusant
+5151-1: ludo-éducatif
+5152-1: parc d'attractions
+5158-1: s'amuser
+5159-1: s'amuser
+5160-1: être à la fête
+5161-1: s'amuser
+5162-1: passez un bon moment
+5164-1: amusement
+5165-1: réjouissance
+5169-1: amusement
+5170-1: rigolade
+5170-1: plaisanterie
+5172-1: histoire drôle
+5173-1: (désigne un membre, un habitant ou un partisan)
+5176-1: ascendant
+5176-1: croissant
+5177-1: Anabase
+5178-1: Annabel
+5179-1: Annabelle
+5180-1: anabiose
+5181-1: anabolisant
+5182-1: anabolisme
+5184-1: anaérobie
+5185-1: anaérobie
+5186-1: anaérobiose
+5187-1: anaphase
+5188-1: anaphylactique
+5189-1: anaphylaxie
+5192-1: anaglyphique
+5194-1: anaglyphe
+5196-1: orchis pyramidal (🍁)
+5197-1: Anacardiaceae (🍁)
+5198-1: noix de cajou
+5199-1: anakinésie
+5200-1: Anak
+5202-1: anaconda
+5203-1: anchoritique
+5204-1: anchoritical
+5205-1: anachorète
+5207-1: anacréontique
+5208-1: Anacréon
+5209-1: Anacréon
+5210-1: anachronique
+5211-1: anachronique
+5213-1: anacrusis
+5214-1: optimiste
+5215-1: Anaxagore
+5216-1: Anaximandre
+5217-1: Anaximène
+5218-1: anal
+5219-1: sexe anal
+5220-1: anallagmatique
+5221-1: anale
+5223-1: analeptique
+5224-1: analeptique
+5227-1: analphabétisme
+5230-1: analphabète
+5231-1: analgésique
+5235-1: annaliste
+5236-1: analytique
+5240-1: méthode analytique de la solution du modèle
+5241-1: modèle analytique
+5247-1: analysable
+5248-1: analytique
+5250-1: erreur d'analyse
+5255-1: analyser en détail
+5260-1: analyse des performances
+5261-1: analyse d'utilisation
+5267-1: ordinateur analogique
+5268-1: machine analogique
+5269-1: données analogiques
+5270-1: analogique
+5271-1: analogique-numérique
+5272-1: par analogie avec
+5273-1: sur l'analogie de
+5279-1: analogique
+5280-1: annales
+5281-1: Annamite
+5282-1: Anamime
+5284-1: Annam
+5285-1: anamorphique
+5286-1: anamorphose
+5288-1: jus d'ananas
+5290-1: Ananie
+5291-1: ananyme
+5292-1: anna
+5293-1: anapeste
+5301-1: anarchiquement
+5303-1: anarchiste
+5312-1: anarchiste
+5315-1: anarcho-syndicalisme
+5316-1: anarchique
+5317-1: anarchique
+5319-1: anarchiste
+5322-1: adhérents
+5323-1: disciples
+5324-1: troupeau
+5325-1: bande
+5326-1: foule
+5327-1: équipage
+5328-1: troupe
+5330-1: canard
+5333-1: d'un canard
+5334-1: œuf de canard
+5335-1: canard
+5337-1: anasarque
+5338-1: cancaner
+5340-1: caneton
+5341-1: cane
+5342-1: se dandiner
+5344-1: Annas
+5344-1: Anân (חנן)
+5345-1: se dandiner
+5346-1: Anastasia
+5351-1: anastomotique
+5352-1: anastomose
+5353-1: anastrophe
+5354-1: anatase (TiO₂)
+5355-1: anathématique
+5361-1: anatife
+5362-1: anatolien
+5365-1: Anatolie
+5366-1: anatomique
+5367-1: anatomiquement
+5371-1: anatrope
+5375-1: andin
+5376-1: andalou
+5377-1: andalou
+5378-1: andalou
+5379-1: andalouse
+5380-1: Andalousie
+5381-1: andalou
+5382-1: Andalousie
+5383-1: Mer d'Andaman
+5384-1: Îles Andaman
+5386-1: andantino
+5387-1: andantino
+5388-1: andantino
+5391-1: Andes
+5392-1: andorran
+5393-1: andorrane
+5394-1: Andorrien
+5396-1: Andréas
+5398-1: androdioïque
+5399-1: androphobie
+5400-1: androphore
+5401-1: androgène
+5402-1: androgyne
+5403-1: androgène
+5407-1: androïque
+5409-1: Androclès
+5410-1: Andromaque
+5411-1: galaxie d'Andromède
+5413-1: andromonoïque
+5414-1: Andronicus
+5415-1: androstérone (C₁₉H₃₀O₂)
+5417-1: adhésion
+5417-1: appartenance
+5420-1: anecdotiste
+5422-1: accessoire
+5422-1: auxiliaire
+5423-1: annexion
+5426-1: annexionnisme
+5427-1: annexionniste
+5428-1: annexion
+5429-1: annexe
+5430-1: faire faux bond à
+5431-1: annélide
+5433-1: anellus
+5434-1: anémique
+5436-1: anémique
+5437-1: anémophile
+5438-1: anémographie
+5439-1: anémographe
+5440-1: anémogramme
+5441-1: anémométrie
+5444-1: anémonique
+5446-1: anémoscope
+5447-1: anéroïde
+5448-1: anéroïde
+5449-1: baromètre
+5450-1: anéroïde
+5451-1: anesthésique
+5452-1: anesthésie
+5453-1: anesthésique
+5454-1: appareil d'anesthésie
+5455-1: anesthésique
+5458-1: anesthésiologie
+5459-1: anesthésiste
+5460-1: anesthésiste
+5461-1: anesthésiste
+5464-1: aneurine (C₁₂H₁₇N₄OS)
+5465-1: thiamine
+5465-1: Vitamine B1 
+5466-1: anévrismal
+5468-1: anfractueux
+5472-1: angélique
+5473-1: salutation angélique
+5474-1: angélophanie
+5475-1: angéliquement
+5476-1: angélique
+5477-1: l'ange
+5479-1: Angélique
+5480-1: Angela
+5481-1: ange
+5482-1: Angelo
+5484-1: ange déchu
+5485-1: tuteur
+5486-1: angélique
+5488-1: vasculaire
+5490-1: Anguillidés
+5491-1: foêne
+5492-1: anguilliforme
+5494-1: glissant comme une anguille
+5495-1: peau d'anguille
+5496-1: pêche à l'anguille
+5497-1: conserve d'anguille
+5499-1: corbeille à anguilles
+5501-1: nasse à anguilles
+5502-1: piège à anguille
+5504-1: anguilliforme
+5507-1: pêche à l'anguille
+5508-1: tourte aux anguilles
+5509-1: comme une anguille
+5510-1: anguillule
+5510-1: nématode
+5510-1: vers ronds
+5511-1: vendeur d'anguille
+5516-1: angiogenèse
+5517-1: angiome
+5518-1: angioplastie
+5519-1: angiosarcome
+5520-1: angioscope
+5522-1: angiosperme (🍁)
+5523-1: angiosperme (🍁)
+5525-1: anglais
+5526-1: langue anglaise
+5527-1: jacinthe (🍁)
+5527-1: scille (🍁)
+5528-1: jacinthe des bois (🍁)
+5529-1: en anglais
+5530-1: anglais
+5531-1: en anglais
+5532-1: anglophile
+5533-1: pro-anglais
+5534-1: anglophone
+5535-1: anglophone
+5536-1: en anglais
+5537-1: anglophone
+5538-1: anglicisme
+5539-1: angliciser
+5541-1: anglicisation
+5542-1: anglican
+5545-1: anglaise
+5546-1: Anglaise
+5548-1: anglicisme
+5550-1: anglophobie
+5551-1: Angleterre
+5552-1: anglophone
+5553-1: anglomanie
+5554-1: anglo-normand
+5557-1: Angleterre
+5558-1: angolais
+5559-1: angolaise
+5560-1: angolais
+5564-1: agonie
+5564-1: tourment
+5565-1: légèrement inquiet
+5567-1: angoisser
+5573-1: sueurs froides
+5574-1: angostura
+5575-1: angström
+5576-1: angulaire
+5577-1: décharné
+5582-1: équerre
+5583-1: moment angulaire
+5584-1: équerres
+5585-1: cornière
+5586-1: angulaire
+5587-1: angularité
+5588-1: au coin de la rue
+5589-1: recoin
+5590-1: cornière
+5592-1: angulaire
+5593-1: incliner
+5594-1: incliner
+5595-1: équerre
+5596-1: crochet angulaire
+5600-1: cornière
+5601-1: barre d'angle
+5602-1: cornière
+5603-1: barre d'angle
+5604-1: Angora
+5605-1: Chat angora
+5606-1: Angora
+5608-1: angostura
+5609-1: Anguilla
+5621-1: anhydride
+5622-1: anhydrite
+5623-1: ânkh (☥)
+5624-1: affilier
+5625-1: inclure
+5626-1: faire partie d'un groupe
+5627-1: adhérer
+5628-1: s'affilier
+5629-1: rejoindre
+5630-1: devenir membre de
+5631-1: formulaire de candidature
+5632-1: formulaire de demande
+5633-1: inscription
+5634-1: inclure
+5638-1: noir d'aniline
+5640-1: anil (🍁)
+5640-1: indigotier (🍁)
+5641-1: de l'âme
+5642-1: spirituel
+5646-1: animation
+5648-1: magnétisme animal
+5649-1: odeur animale
+5652-1: mentalement
+5653-1: animation
+5654-1: anime (animation japonaise)
+5659-1: animus
+5660-1: animiste
+5662-1: animiste
+5663-1: animé
+5669-1: aumônerie
+5670-1: aumônier
+5671-1: anion
+5672-1: anisette
+5673-1: anis
+5674-1: anisé
+5675-1: anisocorie
+5676-1: anisométropie
+5677-1: anis (🍁)
+5678-1: anisosphygmie
+5679-1: bonbon à l'anis
+5680-1: anisotrope
+5682-1: anisotrope
+5683-1: anisotropie
+5684-1: graine d'anis
+5686-1: anionique
+5688-1: Ankara
+5693-1: à moi aussi
+5694-1: ancre
+5695-1: ankylostome
+5697-1: ankylose
+5700-1: anconé
+5701-1: ancon
+5702-1: Ancône
+5708-1: 5 ou 6 ans de plus
+5709-1: encore un peu de
+5710-1: pas encore
+5711-1: toujours pas
+5712-1: un de plus
+5713-1: un autre
+5714-1: encore
+5715-1: encore une fois
+5716-1: cellule d'ancrage
+5717-1: fenêtre d'ancrage
+5718-1: plugin d'ancrage
+5719-1: point d'ancrage
+5720-1: ancrage
+5721-1: ancrage
+5722-1: ancrage
+5726-1: Ancrene Wisse
+5726-1: Ancrene Riwle
+5727-1: grappin
+5729-1: s'ancrer
+5730-1: ancrage
+5733-1: câble d'ancrage
+5734-1: corde d'ancrage
+5736-1: ligne d'ancrage
+5737-1: câble d'ancrage
+5738-1: frais d'ancrage
+5739-1: guindeau
+5739-1: treuil
+5740-1: mouiller
+5744-1: anxiété
+5746-1: orcanette (🍁)
+5747-1: Ann
+5748-1: Annette
+5749-1: Anne
+5750-1: membre
+5751-1: supporter
+5752-1: participant
+5754-1: anobides
+5757-1: anodique 
+5758-1: anodin
+5759-1: anodyne
+5760-1: anodiser
+5762-1: anophèle
+5763-1: anoxémie
+5764-1: anoxie
+5765-1: anolyte
+5771-1: annonce
+5772-1: notification
+5773-1: avis
+5774-1: publicité par lien texte
+5775-1: annonciateur
+5776-1: annonceur
+5777-1: petite publicité
+5778-1: petite annonce
+5783-1: appeler
+5784-1: s'annoncer
+5785-1: s'annoncer
+5786-1: annonceur
+5791-1: affichage d'annonces
+5792-1: bloqueur de publicités
+5793-1: fenêtre publicitaire
+5794-1: tueur d'annonces
+5795-1: panneau d'affichage
+5800-1: FTP anonyme
+5801-1: société à responsabilité limitée
+5802-1: société à responsabilité limitée
+5803-1: anonyme
+5804-1: anonymat
+5805-1: auteur anonyme
+5806-1: lettre anonyme
+5807-1: écrivain anonyme
+5809-1: anonier (🍁)
+5809-1: chérimolier (🍁)
+5809-1: annona cherimola (🍁)
+5810-1: anopsie
+5811-1: veste anorak
+5812-1: capuche d'anorak
+5816-1: anorexique
+5817-1: anorexique
+5819-1: anorexique
+5821-1: anorthitique
+5822-1: anorthite
+5823-1: anosmie
+5824-1: description d'élément
+5825-1: sur les hanches
+5827-1: ansérine
+5829-1: oie
+5833-1: oison
+5834-1: ansérine
+5836-1: oie
+5840-1: jars
+5841-1: ayant une anse
+5842-1: jeu de caractères ANSI
+5846-1: anstataŭ (au lieu de)
+5847-1: au lieu de
+5848-1: à la place de
+5850-1: par intérim
+5852-1: alternatif
+5853-1: adjoint
+5854-1: de remplacement
+5855-1: ersatz
+5856-1: remplaçant
+5857-1: remplacement
+5858-1: roue de secours
+5859-1: caractère de substitution
+5860-1: substitut
+5862-1: remplacement
+5864-1: second (en duel)
+5865-1: à la place
+5866-1: remplacer
+5867-1: substituer
+5868-1: échanger
+5869-1: permuter
+5870-1: commuter
+5873-1: remplacement
+5874-1: substitut
+5875-1: caractère de substitution
+5876-1: mode de surcharge
+5877-1: mode d'écrasement
+5878-1: remplacement
+5879-1: pour remplacer
+5880-1: substituer
+5881-1: faire une substitution
+5882-1: mise en place de
+5883-1: écraser
+5884-1: à remplacer
+5885-1: à remplacer par
+5886-1: remplacement
+5887-1: substitution
+5888-1: échange
+5889-1: substitution de police
+5890-1: substitution de valeur
+5891-1: substitut
+5892-1: substitution
+5893-1: remplacement
+5894-1: substitution
+5895-1: substitut
+5896-1: remplaçant
+5896-1: suppléant
+5897-1: angström
+5898-1: -ant- (dénote le participe présent)
+5899-1: antagoniste
+5900-1: antagoniste
+5906-1: antagoniser
+5910-1: Antarès
+5911-1: Antarctique
+5914-1: Océan Antarctique
+5915-1: Antarctique
+5916-1: Océan Antarctique
+5917-1: Antarctique
+5918-1: Antarctique
+5922-1: Antarès
+5925-1: avant
+5926-1: devant
+5927-1: à
+5930-1: avant-
+5931-1: avant tout
+5932-1: notamment
+5933-1: il y a des décennies
+5934-1: il y a quelques années
+5935-1: il y a quelques jours
+5937-1: il y a quelques jours
+5938-1: B.C.
+5939-1: avant le Christ
+5940-1: avant de s'endormir
+5941-1: il y a longtemps
+5942-1: il y a de nombreuses années
+5943-1: dernièrement
+5944-1: récemment
+5945-1: depuis
+5946-1: il n'y a pas longtemps
+5947-1: il n'y a pas longtemps
+5948-1: récemment
+5949-1: il y a une semaine
+5950-1: avant
+5951-1: avant que
+5953-1: éclaireur
+5954-1: il y a trois mois
+5955-1: il y a trois jours
+5956-1: il y a un an
+5957-1: avance
+5959-1: précédent
+5960-1: antérieur
+5961-1: plus tôt
+5962-1: ancien
+5963-1: avant
+5964-1: passé
+5965-1: précédent
+5967-1: avant
+5968-1: façade
+5969-1: face avant
+5970-1: côté face
+5971-1: grappin avant
+5972-1: premier et dernier
+5973-1: capot avant
+5974-1: jambe avant
+5975-1: lampe frontale
+5977-1: prénom
+5978-1: zéro en tête
+5979-1: proue
+5980-1: patte avant
+5983-1: veille
+5984-1: la veille
+5985-1: acheter à l'avance
+5986-1: préliminaire
+5988-1: préréglé
+5989-1: zéros de tête
+5990-1: antécédent
+5991-1: précédent
+5992-1: avant
+5993-1: prélude
+5994-1: préamplificateur
+5995-1: préamplificateur
+5998-1: précédent
+5999-1: prédécesseur
+6001-1: arrangement préalable
+6002-1: aperçu audio
+6003-1: prévenir
+6004-1: antébrachial
+6008-1: d'une antichambre
+6011-1: pré-éjaculatoire
+6012-1: antidater
+6013-1: antidater
+6015-1: antidater
+6016-1: prédéterminer
+6017-1: prédétermination
+6018-1: prédestiner
+6020-1: prédestiné
+6021-1: prédestination
+6023-1: prédéfini
+6024-1: objet prédéfini
+6025-1: règle prédéfinie
+6026-1: clé prédéfinie
+6027-1: antédiluvien
+6029-1: prévisible
+6037-1: diseuse de bonne aventure
+6040-1: précâblé
+6041-1: devant
+6042-1: anciennement
+6043-1: précédemment
+6044-1: avant
+6045-1: au préalable
+6047-1: à l'avance
+6049-1: indicateur de priorité
+6050-1: priorité
+6052-1: antenuptial
+6053-1: plus tôt dans la journée
+6054-1: écran tactile de couverture
+6055-1: pré-exposition
+6056-1: présélectionner
+6057-1: préréglé
+6058-1: dérailleur avant
+6059-1: dérailleur avant
+6060-1: devant
+6062-1: avant
+6064-1: impulser
+6065-1: propulser
+6066-1: avant-gardiste
+6067-1: progressif
+6068-1: avancer
+6069-1: aller de l'avant
+6070-1: promouvoir
+6071-1: pousser en avant
+6072-1: avancer
+6073-1: avancement
+6074-1: avancement
+6077-1: avancer
+6078-1: avance
+6079-1: se pencher en avant
+6080-1: avancer
+6081-1: avance
+6082-1: avancer
+6083-1: avancer
+6084-1: programmation prévisionnelle
+6086-1: élan
+6087-1: avancer
+6088-1: regarder vers l'avant
+6089-1: regard vers l'avenir
+6090-1: bondir en avant
+6091-1: envoyer
+6092-1: avancer
+6093-1: maison préfabriquée
+6096-1: mardi gras
+6097-1: pare-brise
+6098-1: préfigurer
+6103-1: prédéterminé
+6104-1: heure prédéterminée
+6105-1: préfiltre
+6106-1: demi-finale
+6107-1: demi-finaliste
+6108-1: demi-finale
+6110-1: éviter
+6111-1: esquiver
+6112-1: éviter un accident
+6113-1: préformaté
+6120-1: protection
+6121-1: conservateur
+6122-1: antenuptial
+6123-1: pare-brise
+6124-1: espérer
+6125-1: attendre avec impatience
+6133-1: préhistoire
+6134-1: précéder
+6135-1: meneur
+6136-1: remplacer
+6137-1: se démarquer
+6138-1: initiative
+6139-1: préinstallation
+6140-1: préinstallé
+6141-1: préinstallation
+6142-1: pré-installation
+6143-1: en tête
+6144-1: zéro devant
+6145-1: premier point
+6146-1: espace de tête
+6147-1: précurseur
+6151-1: biaisé
+6152-1: biais
+6163-1: précompilé
+6164-1: complice avant le fait
+6165-1: précondition
+6166-1: condition préalable
+6168-1: à connaître au préalable
+6172-1: date préarrangée
+6173-1: avant-projet
+6174-1: validation des données
+6176-1: incrémentation automatique
+6178-1: pré-incrément
+6182-1: préscolaire
+6185-1: susmentionné
+6189-1: préventif
+6192-1: éclaireur
+6193-1: mât de misaine
+6194-1: préméditation
+6195-1: susmentionné
+6196-1: précitées
+6196-1: cité précédemment
+6197-1: réserver
+6198-1: réservation
+6199-1: notation de préfixe
+6201-1: serveuse
+6203-1: aperçu
+6204-1: ante mortem
+6205-1: prénatal
+6208-1: premières heures de sommeil
+6210-1: avant
+6211-1: de l'arrière vers l'avant
+6212-1: esquisser
+6213-1: préconçu
+6214-1: anticiper
+6215-1: juge à l'avance
+6216-1: préconception
+6217-1: traversée en précommande
+6218-1: payable à l'avance
+6220-1: prépayé
+6221-1: carte prépayée
+6222-1: acompte
+6223-1: avance
+6229-1: partie avant
+6230-1: entrepont
+6231-1: étrave
+6232-1: avant Pâques
+6233-1: ancêtre
+6234-1: antependium
+6237-1: prémédité
+6238-1: avant-pied
+6240-1: premier plan
+6242-1: avant-poste
+6243-1: présumer
+6244-1: présupposer
+6245-1: préliminaire
+6246-1: bande-annonce
+6247-1: prévisualiser
+6248-1: aperçu
+6255-1: pré-stocker
+6257-1: mode aperçu
+6258-1: volet d'aperçu
+6259-1: aperçu
+6260-1: aperçu de la disposition
+6261-1: aperçu de police
+6262-1: précaution
+6269-1: prémonitoire
+6270-1: laisser présager
+6271-1: prescience
+6273-1: prémonition
+6274-1: pressentiment
+6275-1: préfigurer
+6276-1: prédire
+6277-1: prédéfinir
+6278-1: présager
+6287-1: esquisser
+6288-1: prologue
+6291-1: statu quo
+6292-1: antestomac
+6293-1: présumer
+6294-1: présupposer
+6297-1: matin
+6298-1: matinée
+6299-1: au matin
+6302-1: penthouse
+6303-1: remise
+6304-1: question préliminaire
+6305-1: prémisse
+6308-1: prématurément
+6309-1: être prématuré
+6311-1: prématurément
+6317-1: faux-titre
+6319-1: prétraiter
+6321-1: tube de direction
+6322-1: tablier
+6323-1: il n'y a pas longtemps
+6324-1: précurseur
+6327-1: prédécesseur
+6328-1: banlieue
+6329-1: banlieue
+6331-1: précurseur
+6332-1: avance
+6334-1: précurseur
+6335-1: approche 
+6336-1: prologue
+6339-1: éventuel
+6340-1: prévisible
+6341-1: mesurable
+6342-1: prévisible
+6343-1: sans surprise
+6346-1: réfléchi
+6347-1: soigneusement
+6350-1: prévoyance
+6352-1: préservation
+6353-1: réflexion
+6354-1: prudence
+6355-1: précaution
+6357-1: antécédents
+6359-1: antéfixe
+6360-1: anthélix
+6361-1: anthémis des champs (🍁)
+6362-1: camomille sauvage (🍁)
+6364-1: antenne
+6365-1: antennule
+6366-1: commutateur d'antenne
+6367-1: bornier d'antenne
+6371-1: dans l'expectative
+6372-1: pertinent
+6373-1: tour d'antenne
+6374-1: anthéral
+6375-1: anthéridie
+6376-1: phalangère à fleurs de Lis (🍁)
+6378-1: anthérozoïde
+6379-1: anthérozoïde
+6380-1: anthélix
+6381-1: anthélie
+6382-1: antiacide
+6383-1: anti-américain
+6384-1: anti-anticorps
+6385-1: antiar (🍁)
+6386-1: antiarthritique
+6387-1: antiaérien
+6388-1: antibactérien
+6392-1: avance
+6393-1: attendant
+6394-1: anticipation
+6395-1: en prévision
+6399-1: anticipation
+6400-1: antidépresseur
+6401-1: antérivatif
+6402-1: antideutéron
+6403-1: springbok
+6403-1: antidorcas marsupialis
+6404-1: antidote
+6406-1: antiélectron
+6407-1: antiémétique (⚕)
+6408-1: antienzyme
+6409-1: antifébrile (⚕)
+6410-1: antipyrétique (⚕)
+6411-1: antiferromagnétique
+6412-1: antiphonaire
+6417-1: antigénique
+6419-1: Antigone
+6421-1: Antigua-et-Barbuda
+6422-1: antihémophilique
+6423-1: antihéros
+6424-1: antihydrophobe
+6425-1: antihypnotique
+6426-1: antihypochondriaque
+6427-1: antihistaminique
+6428-1: antihystérique
+6429-1: anti-inflammatoire
+6430-1: anticlérical
+6431-1: anticlimactique
+6432-1: anticlimax
+6433-1: anticlinal
+6434-1: anticlinal
+6435-1: anticoagulant
+6436-1: anticoagulant
+6437-1: contraceptif
+6438-1: anticonvulsivant
+6440-1: Île d'Anticosti
+6441-1: antichrèse
+6449-1: antiquité
+6450-1: antiquaire
+6451-1: antiquaire
+6452-1: magasin d'antiquités
+6453-1: antiquaire
+6454-1: magasin d'antiquités
+6455-1: antiquaire
+6459-1: antiquark
+6461-1: antiquaire
+6462-1: ancien
+6463-1: Antillais
+6464-1: Antillais
+6465-1: antilogarithmique
+6466-1: antilogarithme
+6467-1: Antilles
+6469-1: antipaludéen
+6470-1: antimatière
+6471-1: antimicrobien
+6472-1: antimilitarisme
+6473-1: antimilitariste
+6474-1: antimissle
+6475-1: antimonique
+6477-1: antimonique
+6478-1: analgésique
+6479-1: antineutrino
+6480-1: antineutron
+6482-1: Antioche
+6483-1: Antioche
+6484-1: antipape
+6485-1: antiparalytique
+6487-1: antiparticule
+6488-1: Antipas (de Pergame)
+6493-1: peu sympathique
+6499-1: répugnance
+6500-1: Antipater (Ἀντίπατρος)
+6500-1: Antipatros (Ἀντίπατρος)
+6501-1: antipéristaltique
+6502-1: Antiperspirant
+6504-1: antipodal
+6506-1: antipodes
+6507-1: Antipodes
+6509-1: antiproton
+6510-1: antipsychotique
+6511-1: antirachitique
+6514-1: cerfeuil sauvage (🍁)
+6515-1: antirouille
+6516-1: antisémitisme
+6517-1: antisémite
+6523-1: antiseptique
+6525-1: antisérum
+6527-1: relation antisymétrique
+6528-1: antiscorbutique
+6529-1: antisocial
+6530-1: antispasmodique
+6531-1: antispastique
+6532-1: antistatique
+6533-1: antistrophe
+6534-1: antichar
+6535-1: antithétique
+6538-1: antitoxine
+6539-1: antitrade
+6539-1: contre-alizé
+6540-1: antitrust
+6541-1: antitussif
+6542-1: antiviral
+6543-1: antivirus
+6544-1: antivirus
+6545-1: antivitamine
+6548-1: antonyme
+6550-1: Antoinette
+6551-1: Antony
+6554-1: anthozoaire
+6555-1: anthracène
+6557-1: anthraquinone (C₁₄H₈O₂)
+6558-1: anthraconite
+6559-1: anthracose
+6562-1: Antrim
+6563-1: cerfeuil sauvage (🍁)
+6564-1: antre
+6565-1: anthropocentrique
+6566-1: anthropophage
+6567-1: anthropophagie
+6568-1: anthropophagie
+6570-1: anthropophage
+6571-1: anthropophobie
+6573-1: anthropoïde
+6574-1: Anthropoidea
+6575-1: anthropologique
+6576-1: anthropologique
+6577-1: anthropologiquement
+6581-1: anthropomancie
+6582-1: anthropométrique
+6584-1: anthropomorphe
+6585-1: anthropomorphiser
+6587-1: chimpanzé
+6588-1: anthropopithèque 
+6590-1: pipit
+6590-1: anthus
+6591-1: Anvers
+6593-1: Anubis
+6599-1: Annonciation
+6601-1: anoure
+6603-1: anurie
+6604-1: anoure
+6605-1: anoures
+6607-1: sexe anal
+6608-1: anal
+6609-1: sodomiser
+6610-1: sexe anal
+6613-1: trou du cul
+6614-1: aoriste
+6615-1: aortique
+6618-1: Apache
+6623-1: Appalaches
+6624-1: Appalaches
+6625-1: Appalaches
+6628-1: adresse de l'appareil
+6629-1: configuration matérielle
+6630-1: ID d'appareil
+6631-1: interface matérielle
+6632-1: conflit de périphérique
+6633-1: vérification du matériel
+6634-1: panne matérielle
+6635-1: mot de passe de l'appareil
+6636-1: pilote de périphérique
+6637-1: contrôleur de périphérique
+6638-1: enregistrement de l'appareil
+6639-1: verrouillage de l'appareil
+6640-1: pile d'appareils
+6641-1: police de périphérique
+6642-1: pilote de périphérique
+6643-1: pilote de périphérique
+6644-1: adresse de l'appareil
+6645-1: adresse de l'appareil
+6646-1: arborescence matérielle
+6647-1: station d'accueil
+6648-1: station d'accueil
+6649-1: routeur matériel
+6650-1: historique du matériel
+6651-1: ID matériel
+6652-1: compression matérielle
+6653-1: accélération matérielle
+6654-1: profil matériel
+6655-1: dongle
+6658-1: allocation d'appareil
+6659-1: allocation d'appareil
+6660-1: octet d'état
+6661-1: marque de fichier
+6662-1: gestion des appareils
+6663-1: nom de l'appareil
+6670-1: état de l'appareil
+6671-1: apparatchik
+6680-1: opinion contraire
+6681-1: opinion minoritaire
+6684-1: appartement
+6687-1: à part
+6688-1: séparément
+6691-1: en particulier
+6693-1: aparté
+6694-1: distant
+6695-1: à distance
+6696-1: appartenant à
+6697-1: appartenance
+6698-1: appartenance
+6699-1: propriétaire
+6703-1: appartenance à un groupe
+6704-1: séparé
+6706-1: marque de fichier
+6707-1: caractère de séparation
+6716-1: diviser
+6717-1: séparer
+6718-1: suivre ses propres voies
+6719-1: séparateur
+6720-1: démuliplexeur
+6721-1: demux
+6722-1: séparateur de champ
+6723-1: séparé par
+6724-1: sélection disjointe
+6725-1: séparation
+6726-1: partition
+6727-1: division
+6728-1: séparation
+6729-1: Apartheid
+6730-1: apastre
+6731-1: apathique
+6732-1: apathiquement
+6736-1: personne apathique
+6737-1: apex
+6737-1: sommet
+6738-1: appelant
+6739-1: appel
+6740-1: faire appel
+6741-1: appel
+6742-1: appelant
+6744-1: faire appel à
+6746-1: appelant
+6747-1: appel
+6748-1: appelant
+6749-1: appelant
+6750-1: faire appel
+6751-1: appel
+6752-1: à peine
+6754-1: seulement juste
+6756-1: pas plus de
+6757-1: à peine visible
+6760-1: appendicectomie
+6761-1: appendiculaire
+6762-1: appendicectomie
+6765-1: Apennin
+6766-1: Apennins
+6767-1: Apennins
+6774-1: apercevoir
+6775-1: aperception
+6786-1: apparition
+6787-1: apparence
+6788-1: occurrence
+6789-1: instance
+6793-1: franchement
+6794-1: franchise
+6795-1: ouverture
+6798-1: ouverture
+6801-1: contrôle d'ouverture
+6802-1: apétales
+6803-1: appétence
+6804-1: appétissant
+6805-1: appétissant
+6806-1: appétissant
+6807-1: appétissant
+6808-1: appétissant
+6809-1: appétissant
+6811-1: appétissant
+6813-1: appétissant
+6821-1: apiculture
+6823-1: Apis
+6826-1: aplanétisme
+6828-1: acclamation
+6829-1: applaudir
+6830-1: acclamation
+6831-1: admiratif
+6835-1: applaudisseurs
+6836-1: acclamation
+6837-1: acclamation
+6838-1: approbation
+6839-1: applaudissements
+6840-1: applet
+6841-1: application
+6842-1: occurrence appliquée
+6843-1: logiciel d'application
+6844-1: application
+6845-1: couche application
+6846-1: application
+6847-1: emploi
+6848-1: usage
+6849-1: Circuit intégré spécifique à l'application
+6850-1: racine d'application
+6851-1: portée de l'application
+6852-1: mode de cohérence
+6853-1: suite d'applications
+6854-1: applet
+6855-1: application
+6856-1: volet d'application
+6857-1: applications
+6858-1: lanceur d'applications
+6859-1: applicateur
+6860-1: appliqué
+6861-1: mécanique appliquée
+6862-1: applicable
+6863-1: applicable
+6864-1: applicabilité
+6868-1: tramer
+6869-1: aplicateur
+6870-1: appliqué
+6871-1: application
+6872-1: emploi
+6873-1: usage
+6874-1: domaine d'application
+6875-1: interface de programmation d'application
+6876-1: applet
+6877-1: programmeur d'applications
+6878-1: application
+6879-1: aplomb
+6883-1: apnée
+6884-1: Apocynacées (🍁) 
+6885-1: apocryphe
+6886-1: apocryphe
+6887-1: apodal
+6888-1: apodictique
+6889-1: apodictique
+6890-1: apod
+6891-1: Apoda
+6892-1: apodose
+6893-1: apoenzyme
+6894-1: apophyllite
+6895-1: apophysaire
+6898-1: ablaut
+6899-1: apophonie
+6900-1: support
+6901-1: point de contrôle
+6902-1: apogamie
+6903-1: supporteur
+6907-1: bras
+6908-1: apogée
+6910-1: être en apogée
+6915-1: apogéotrope
+6916-1: apogéotropisme
+6928-1: s'appuyer
+6929-1: s'appuyer sur
+6936-1: contrefort
+6937-1: support
+6938-1: appui
+6941-1: point d'appui
+6942-1: apographe
+6944-1: béquille
+6946-1: apocalyptiquement
+6948-1: Apocalypse
+6949-1: Livre de l'Apocalypse
+6950-1: apocope
+6951-1: photocopier
+6954-1: apocryphe
+6955-1: apocryphe
+6957-1: Apocryphe
+6958-1: apochromatique
+6959-1: Apollo
+6960-1: apologétique
+6961-1: apologétique
+6962-1: Île Vindication
+6963-1: apologétique
+6964-1: pardin
+6965-1: s'excuser
+6966-1: apologiste
+6972-1: Apollonia
+6973-1: Apollonios
+6975-1: apomorphine
+6976-1: aponévrotique
+6977-1: aponévrose
+6978-1: apoplectique
+6979-1: apoplectique
+6980-1: apoplectique
+6985-1: apoplectique
+6986-1: apport
+6987-1: aposiopèse
+6988-1: apostolat
+6989-1: apostolicité
+6990-1: apostate
+6991-1: apostasie
+6992-1: apostasier
+6993-1: apostasie
+6996-1: a posteriori
+6997-1: apostolique
+6998-1: père d'église
+6999-1: apostolat
+7003-1: apostrophique
+7007-1: apothécie
+7008-1: souci officinal (🍁)
+7009-1: apothicaire
+7010-1: pharmacien
+7019-1: décoction
+7022-1: apposer
+7024-1: apozymase
+7025-1: Appienne
+7026-1: matériel Apple
+7027-1: plate-forme Apple
+7028-1: logiciel Apple
+7029-1: d'un sanglier
+7030-1: sanglier
+7031-1: harde
+7032-1: apprécier
+7033-1: évaluer
+7034-1: appréciation
+7035-1: arrangement
+7036-1: finition
+7037-1: finir
+7044-1: appréciation
+7045-1: marcassin
+7046-1: avril
+7047-1: avril
+7048-1: Poisson d'avril
+7049-1: laie
+7054-1: a priori
+7055-1: a priori
+7056-1: apriorisme
+7060-1: plausible
+7061-1: plausiblement
+7070-1: raisonnable
+7074-1: approbation
+7075-1: chasse au sanglier
+7076-1: approximatif
+7077-1: approximation
+7078-1: valeur approximative
+7079-1: quantité approximative
+7081-1: s'approcher
+7082-1: se rapprocher
+7083-1: approximation
+7087-1: aptenodyte
+7088-1: aptère
+7089-1: kiwi
+7091-1: à côté
+7093-1: près de
+7094-1: à proximité
+7095-1: à côté de
+7096-1: adjacent
+7097-1: attenant
+7098-1: contigu
+7099-1: à côté de
+7100-1 : voisin
+7101-1: sélection contiguë
+7102-1: quartier
+7103-1: voisinage
+7104-1: front de mer
+7105-1: pièce latérale
+7106-1: antichambre
+7107-1: à proximité
+7108-1: à côté de
+7109-1: adjacent à
+7110-1: contiguïté
+7111-1: proximité
+7112-1: être présent
+7113-1: présence
+7114-1: histoire au coin du feu
+7115-1: être proche de
+7117-1: s'approcher
+7118-1: rapprocher
+7119-1: chevet
+7120-1: bord de mer
+7122-1: au bord de la mer
+7123-1: juxtaposer
+7124-1: apposition
+7125-1: juxtaposition
+7126-1: surnom
+7127-1: présence
+7128-1: légende
+7129-1: être à côté
+7132-1: près du terrain
+7133-1: fossé en bordure de route
+7134-1: Pouilles
+7135-1: appoint
+7136-1: petit somme d'argent
+7137-1: apodidé
+7138-1: -désigne une collection de personnes ou d'objets-
+7142-1: chiffre arabe
+7144-1: Péninsule arabique
+7145-1: Mer d'Oman
+7146-1: arbalète
+7147-1: en arabe
+7149-1: arabesque
+7151-1: scie sauteuse
+7152-1: arabe
+7154-1: arabette des dames (🍁)
+7155-1: arabe
+7156-1: arabinose
+7157-1: Arabie
+7158-1: arabisme
+7160-1: Arabie
+7161-1: bande
+7162-1: gang
+7163-1: aragonais
+7164-1: aragonite
+7165-1: Rakhine
+7166-1: acide arachidique (CH₃(CH₂)₁₈COOH)
+7169-1: Arachné
+7170-1: Arachné
+7171-1: arachnoïdite
+7172-1: arachnoïde
+7176-1: aralia (🍁)
+7177-1: Mer d'Aral
+7181-1: aramaïsme
+7182-1: araméen
+7183-1: toile d'araignée
+7184-1: araignée
+7185-1: cléome (🍁) 
+7185-1: fleur araignée (🍁) 
+7186-1: joubarbe à toile d'araignée (🍁)
+7188-1: Araneidae
+7190-1: arachnoïde
+7191-1: membrane arachnoïdienne
+7192-1: toile d'araignée
+7193-1: arachnide
+7195-1: barre de formatage
+7196-1: palette de formatage
+7197-1: format pinceau
 -----------------------
 
 (🍁)  (⚕) (C₀₁₂₃₄₅₆₇₈₉H)
