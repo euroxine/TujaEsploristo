@@ -4705,8 +4705,63 @@
 7195-1: barre de formatage
 7196-1: palette de formatage
 7197-1: format pinceau
+7208-1: formater une cellule
+7209-1: arranger les fleurs
+7210-1: faire le lit
+7211-1: organiser
+7212-1: s'organiser
+7213-1: arrangement
+7214-1: module de formatage
+7215-1: arrangé
+7216-1: texte mis en forme
+7217-1: arrangement
+7223-1: caractère de mise en page
+7224-1: (système de) disposition
+7225-1: Arran
+7227-1: Mont Ararat
+7228-1: Mapudungun
+7232-1: arboricole
+7233-1: d'un arbre
+7235-1: petit bosquet
+7236-1: tronc d'arbre
+7237-1: branches d'arbres
+7238-1: arbalétrier
+7241-1: d'une forêt
+7243-1: feu de forêt
+7244-1: grande forêt
+7246-1: bois
+7247-1: garde forestier
+7248-1: boiser
+7249-1: boisement
+7250-1: feu de forêt
+7251-1: bûcheron
+7252-1: forestier
+7253-1: reboiser
+7254-1: foresterie
+7255-1: Lac des Bois
+7256-1: lisière des bois
+7257-1: lisière de la forêt
+7260-1: ombre d'un arbre
+7261-1: lisière d'une forêt
+7262-1: garde forestier
+7263-1: boisé
+7265-1: chemin forestier
+7266-1: arborescent
+7267-1: touffu
+7270-1: grand arbre
+7271-1: arboretum
+7272-1: brindilles
+7273-1: broussailles
+7274-1: bord d'un petit bosquet
+7284-1: abatteur
+7285-1: bûcheron
+7286-1: pousse d'arbre
+7287-1: jeune arbre
+7289-1: arboriculteur
+7290-1: arboriculteur
+7293-1: arbitre
+7298-1: arbitrable
 -----------------------
-
 (🍁)  (⚕) (C₀₁₂₃₄₅₆₇₈₉H)
 
 
